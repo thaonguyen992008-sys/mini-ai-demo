@@ -3,9 +3,11 @@
 
 ## A. Establish and Organize the Repository
 
-- Team name: 旺仔牛奶
-- Module: AI Overview
-- Team members: 
+**- Team name:** 旺仔牛奶
+
+**- Module:** AI Overview
+
+**- Team members:** 
   | Number |  Name  | Student ID | GitHub username |
   | :---: | :---: | :---: | :---: |
   | 1. | Nguyen Van Nghi | 1820262352 | NguyenVanNghi |
@@ -14,12 +16,16 @@
   | 4. | Tran Thao Nguyen | 1820262325 | Thao Nguyen |
   | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
 
-- The project's purpose and intended learners: beginners, learners and anyone who interested in AI
-- An overview of the folder structure and where to find the content:
-- Introduction to AI: basic concepts and history of AI
-- AI Technologies: machine learning, deep learning and NLP
-- AI Applications: uses of AI in daily life and different industries
-benefits and challenges: advantages, limitations and ethical issues
+**- The project's purpose and intended learners:** beginners, learners and anyone who interested in AI
+
+**- An overview of the folder structure and where to find the content:**
+
+**- Introduction to AI:** basic concepts and history of AI
+
+**- AI Technologies:** machine learning, deep learning and NLP
+
+**- AI Applications: uses of AI in daily life and different industries
+benefits and challenges:** advantages, limitations and ethical issues
 learning resources: additional materials and references
 
 ## B. Develop the Module Structure
