@@ -6,13 +6,15 @@
 - Team name: 旺仔牛奶
 - Module: AI Overview
 - Team members: 
-  1. Nguyen Van Nghi - 1820262352 - NguyenVanNghi
-  2. Tran Khanh Quyen - 1820262358 - TranKhanhQuyen
-  3. Le Xuan Mai - 1820262052 - Mai241
-  4. Tran Thao Nguyen - 1820262325 - Thao Nguyen
-  5. Nguyen Tran Khanh Ngoc - 1820262330 - ngtrankhanhngoc08 
+  | Number |  Name  | Student ID | GitHub username |
+  | :---: | :---: | :---: | :---: |
+  | 1. | Nguyen Van Nghi | 1820262352 | NguyenVanNghi |
+  | 2. | Tran Khanh Quyen | 1820262358 | TranKhanhQuyen |
+  | 3. | Le Xuan Mai | 1820262052 | Mai241 |
+  | 4. | Tran Thao Nguyen | 1820262325 | Thao Nguyen |
+  | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
 
-- A clear explaination of the project's purpose and intended learners: beginners, learners and anyone who interested in AI
+- The project's purpose and intended learners: beginners, learners and anyone who interested in AI
 - An overview of the folder structure and where to find the content:
 - Introduction to AI: basic concepts and history of AI
 - AI Technologies: machine learning, deep learning and NLP
