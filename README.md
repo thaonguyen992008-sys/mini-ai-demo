@@ -1,7 +1,7 @@
 # mini-ai-demo
-A tiny AI lesson written in Markdown
+# A tiny AI lesson written in Markdown
 
-A. Establish and Organize the Repository
+## A. Establish and Organize the Repository
 
 - Team name: 旺仔牛奶
 - Module: AI Overview
@@ -20,12 +20,12 @@ A. Establish and Organize the Repository
 benefits and challenges: advantages, limitations and ethical issues
 learning resources: additional materials and references
 
-B. Develop the Module Structure
+## B. Develop the Module Structure
 - Intended learning outcomes: what beginners should be able to explain or do:
 - Major topics and subtopics in a logical learning sequence:
 - Any prerequisite knowledge learners will need:
 - Planned examples, demonstrations, questions, or activities:
 - The current development status of each section:
 
-C. Scope Boundaries
+## C. Scope Boundaries
 
