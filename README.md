@@ -27,5 +27,5 @@ learning resources: additional materials and references
 - Planned examples, demonstrations, questions, or activities:
 - The current development status of each section:
 
-## C. Scope Boundaries
+## C. Substantive Markdown Content
 
