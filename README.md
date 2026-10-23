@@ -26,3 +26,6 @@ B. Develop the Module Structure
 - Any prerequisite knowledge learners will need:
 - Planned examples, demonstrations, questions, or activities:
 - The current development status of each section:
+
+C. Scope Boundaries
+
