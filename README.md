@@ -19,17 +19,6 @@
 **- The project's purpose and intended learners:** The purpose of this project is to explore, collect, and summarize information about AI in a clear and easy-to-understand way, making it accessible to beginners, learners and anyone who interested in AI.
 
 **- An overview of the folder structure and where to find the content:**
-```text
-mini-ai-demo/
-├── README.md                   # Project overview & guidelines
-├── docs/
-│   ├── 01-intro-to-ai.md       # Basic concepts and history of AI
-│   ├── 02-ai-technologies.md   # Machine Learning, Deep Learning, and NLP
-│   ├── 03-ai-applications.md   # Uses of AI in daily life and different industries
-│   ├── 04-benefits-ethics.md   # Advantages, limitations, and ethical issues
-│   └── 05-resources.md        # Additional learning materials and references
-└── assets/                     # Images and diagrams
-```
 
 **- Content breakdown:**
 - **Introduction to AI:** Basic concepts and history of AI.
@@ -39,7 +28,6 @@ mini-ai-demo/
 - **Learning Resources:** Additional materials and references.
 
 ---
-
 ## B. Develop the Module Structure
 
 - **Intended learning outcomes:**
@@ -64,6 +52,7 @@ mini-ai-demo/
   - *Interactive Quiz:* Distinguishing between traditional software rules and Machine Learning predictions.
   - *Discussion Prompt:* Ethical dilemmas regarding automated decision-making.
 
+---
 ## C. Substantive Markdown Content
 ## 1. Learning Objectives
 By the end of this topic, learners will be able to:
