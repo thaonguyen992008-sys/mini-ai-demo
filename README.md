@@ -63,12 +63,6 @@ mini-ai-demo/
   - *Interactive Quiz:* Distinguishing between traditional software rules and Machine Learning predictions.
   - *Discussion Prompt:* Ethical dilemmas regarding automated decision-making.
 
-- **The current development status of each section:**
-  - **Section 1 (Introduction & Concepts):** Completed.
-  - **Section 2 (AI vs. ML vs. DL Breakdown):** Completed.
-  - **Section 3 (Case Study & Applications):** Completed.
-  - **Section 4 (Ethics & Future Outlook):** Under Review.
-
 ## C. Substantive Markdown Content
 ## 1. Learning Objectives
 By the end of this topic, learners will be able to:
