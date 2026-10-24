@@ -26,5 +26,5 @@ AI is used in chatbots, recommendation systems,
 navigation applications, and facial recognition.
 
 ## References
-
+- [IBM: What Is Artificial Intelligence?](https://www.ibm.com/think/topics/artificial-intelligence)
 
