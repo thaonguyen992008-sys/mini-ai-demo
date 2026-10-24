@@ -16,7 +16,7 @@
   | 4. | Tran Thao Nguyen | 1820262325 | Thao Nguyen |
   | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
 
-**- The project's purpose and intended learners:** beginners, learners and anyone who interested in AI
+**- The project's purpose and intended learners:** The purpose of this project is to explore, collect, and summarize information about AI in a clear and easy-to-understand way, making it accessible to beginners, learners and anyone who interested in AI.
 
 **- An overview of the folder structure and where to find the content:**
 ```text
