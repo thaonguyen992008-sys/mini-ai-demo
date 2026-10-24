@@ -36,4 +36,31 @@ learning resources: additional materials and references
 - The current development status of each section:
 
 ## C. Substantive Markdown Content
+## 1. Learning Objectives
+By the end of this topic, learners will be able to:
+* Define Artificial Intelligence (AI) accurately from a modern perspective.
+* Clearly differentiate among three key concepts: AI, Machine Learning (ML), and Deep Learning (DL).
+* Identify practical AI applications integrated into everyday life.
+
+## 2. What is Artificial Intelligence (AI)?
+Artificial Intelligence (AI) is a branch of computer science focused on building systems or machines capable of performing tasks that typically require human intelligence (such as learning, reasoning, problem-solving, and speech or image recognition).
+
+### The Relationship among AI, Machine Learning, and Deep Learning:
+We can visualize this relationship as a series of nested sets:
+
+1. **Artificial Intelligence (AI):** The overarching field — machines simulating intelligent human behavior.
+2. **Machine Learning (ML):** A subset of AI — machines learning patterns from data without being explicitly programmed with hard rules.
+3. **Deep Learning (DL):** A subset of ML — utilizing multi-layered artificial neural networks to process complex data (images, audio, text).
+
+| Criteria | Artificial Intelligence (AI) | Machine Learning (ML) | Deep Learning (DL) |
+| :--- | :--- | :--- | :--- |
+| **Scope** | Broadest umbrella | Intermediate | Narrow & Specialized |
+| **Working Principle** | Simulating intelligent behavior | Learning rules from data | Modeling biological neural networks |
+| **Data Required** | Varies by approach | Moderate | Massive (Big Data) |
+
+## 3. Practical Case Study
+* **Scenario:** Face Recognition for unlocking an iPhone (Face ID) falls under which domain?
+* **Answer & Explanation:** This is an application of **Deep Learning** within the field of **Computer Vision**, which is a specialized subset of Machine Learning and overall AI.
+
+
 
