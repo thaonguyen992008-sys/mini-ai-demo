@@ -1,6 +1,16 @@
 # mini-ai-demo
 # A tiny AI lesson written in Markdown
-
+/WangZaiNiuNai-AI-Overview-Module
+│
+├── README.md                 # Project overview, members, task list & progress
+├── /docs
+│   ├── 00-outline.md         # Module outline & learning scope
+│   ├── 01-ai-overview.md     # Substantive Markdown Content V1.0 (AI Overview)
+│   └── references.md         # Cited references and study resources
+├── /assets
+│   └── images/               # AI/ML/DL classification diagrams, infographics
+└── /examples
+    └── ai_cases.md           # Real-world case study examples
 ## A. Establish and Organize the Repository
 
 **- Team name:** 旺仔牛奶
