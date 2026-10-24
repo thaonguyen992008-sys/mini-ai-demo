@@ -19,17 +19,15 @@
 **- The project's purpose and intended learners:** The purpose of this project is to explore, collect, and summarize information about AI in a clear and easy-to-understand way, making it accessible to beginners, learners and anyone who interested in AI.
 
 **- An overview of the folder structure and where to find the content:**
-```text
-mini-ai-demo/
-├── README.md                   # Project overview & guidelines
-├── docs/
-│   ├── 01-intro-to-ai.md       # Basic concepts and history of AI
-│   ├── 02-ai-technologies.md   # Machine Learning, Deep Learning, and NLP
-│   ├── 03-ai-applications.md   # Uses of AI in daily life and different industries
-│   ├── 04-benefits-ethics.md   # Advantages, limitations, and ethical issues
-│   └── 05-resources.md        # Additional learning materials and references
-└── assets/                     # Images and diagrams
-```
+## Learning Materials
+
+| No. | Topic | Description |
+|---|---|---|
+| 01 | [Introduction to AI](docs/01-intro-to-ai.md) | Basic concepts and history of AI |
+| 02 | [AI Technologies](docs/02-ai-technologies.md) | ML, DL, NLP, and Generative AI |
+| 03 | [AI Applications](docs/03-ai-applications.md) | AI in daily life and industries |
+| 04 | [Benefits and Ethics](docs/04-benefits-ethics.md) | Advantages, limitations, and ethics |
+| 05 | [Learning Resources](docs/05-resources.md) | References and additional materials |
 
 **- Content breakdown:**
 - **Introduction to AI:** Basic concepts and history of AI.
