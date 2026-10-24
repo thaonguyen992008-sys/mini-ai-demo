@@ -17,6 +17,7 @@
   | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
 
 **- The project's purpose and intended learners:** beginners, learners and anyone who interested in AI
+
 **- An overview of the folder structure and where to find the content:**
 ```text
 mini-ai-demo/
