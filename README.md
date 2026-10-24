@@ -1,16 +1,6 @@
 # mini-ai-demo
 # A tiny AI lesson written in Markdown
-/WangZaiNiuNai-AI-Overview-Module
-│
-├── README.md                 # Project overview, members, task list & progress
-├── /docs
-│   ├── 00-outline.md         # Module outline & learning scope
-│   ├── 01-ai-overview.md     # Substantive Markdown Content V1.0 (AI Overview)
-│   └── references.md         # Cited references and study resources
-├── /assets
-│   └── images/               # AI/ML/DL classification diagrams, infographics
-└── /examples
-    └── ai_cases.md           # Real-world case study examples
+
 ## A. Establish and Organize the Repository
 
 **- Team name:** 旺仔牛奶
@@ -27,23 +17,57 @@
   | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
 
 **- The project's purpose and intended learners:** beginners, learners and anyone who interested in AI
-
 **- An overview of the folder structure and where to find the content:**
+```text
+mini-ai-demo/
+├── README.md                   # Project overview & guidelines
+├── docs/
+│   ├── 01-intro-to-ai.md       # Basic concepts and history of AI
+│   ├── 02-ai-technologies.md   # Machine Learning, Deep Learning, and NLP
+│   ├── 03-ai-applications.md   # Uses of AI in daily life and different industries
+│   ├── 04-benefits-ethics.md   # Advantages, limitations, and ethical issues
+│   └── 05-resources.md        # Additional learning materials and references
+└── assets/                     # Images and diagrams
+```
 
-**- Introduction to AI:** basic concepts and history of AI
+**- Content breakdown:**
+- **Introduction to AI:** Basic concepts and history of AI.
+- **AI Technologies:** Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+- **AI Applications:** Uses of AI in daily life and different industries.
+- **Benefits and Challenges:** Advantages, limitations, and ethical issues.
+- **Learning Resources:** Additional materials and references.
 
-**- AI Technologies:** machine learning, deep learning and NLP
-
-**- AI Applications: uses of AI in daily life and different industries
-benefits and challenges:** advantages, limitations and ethical issues
-learning resources: additional materials and references
+---
 
 ## B. Develop the Module Structure
-- Intended learning outcomes: what beginners should be able to explain or do:
-- Major topics and subtopics in a logical learning sequence:
-- Any prerequisite knowledge learners will need:
-- Planned examples, demonstrations, questions, or activities:
-- The current development status of each section:
+
+- **Intended learning outcomes:**
+  - Define core AI concepts in simple terms.
+  - Explain the structural hierarchy connecting AI, ML, and DL.
+  - Recognize real-world applications of AI across everyday consumer tools and major industries.
+  - Identify ethical considerations such as algorithmic bias and data privacy.
+
+- **Major topics and subtopics in a logical learning sequence:**
+  1. Introduction to AI (Definition & Evolution)
+  2. The AI Ecosystem (AI vs. ML vs. DL)
+  3. Core AI Technologies (Computer Vision & NLP)
+  4. Real-World Applications & Industry Use Cases
+  5. AI Ethics, Opportunities, and Challenges
+
+- **Any prerequisite knowledge learners will need:**
+  - No prior technical or programming experience is required.
+  - Basic digital literacy (familiarity with smartphones, browsers, and standard web applications).
+
+- **Planned examples, demonstrations, questions, or activities:**
+  - *Case Study:* Facial recognition technology (Apple Face ID).
+  - *Interactive Quiz:* Distinguishing between traditional software rules and Machine Learning predictions.
+  - *Discussion Prompt:* Ethical dilemmas regarding automated decision-making.
+
+- **The current development status of each section:**
+  - **Section 1 (Introduction & Concepts):** Completed.
+  - **Section 2 (AI vs. ML vs. DL Breakdown):** Completed.
+  - **Section 3 (Case Study & Applications):** Completed.
+  - **Section 4 (Ethics & Future Outlook):** Under Review.
 
 ## C. Substantive Markdown Content
 ## 1. Learning Objectives
