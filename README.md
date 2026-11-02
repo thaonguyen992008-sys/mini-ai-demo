@@ -25,7 +25,7 @@
 |:---:|---|:---:|
 | 01 | [Introduction to AI](docs/📖01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | 02 | [History and Development of AI](docs/⏳02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
-| 03 | [Types and Capabilities of AI](docs/🦾03-ai-applications.md) | Explore different types of AI and what they can do |
+| 03 | [Types and Capabilities of AI](docs/🦾03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
 | 04 | [Benefits and Ethics](docs/04-benefits-ethics.md) | Advantages, limitations, and ethics |
 | 05 | [Future of AI](docs/05-future-of-ai.md) | AI in future |
 | 06 | [Learning Resources](docs/05-resources.md) | References and additional materials |
