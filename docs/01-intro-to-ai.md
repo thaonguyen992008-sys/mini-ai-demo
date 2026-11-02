@@ -1,4 +1,4 @@
-## Introduction to Artificial Intelligence
+## 📖 Introduction to Artificial Intelligence
 *Purpose: Build a clear foundation for what AI is, what tasks it can perform, and how it differs from ordinary automation*
 
 ### Learning outcomes
