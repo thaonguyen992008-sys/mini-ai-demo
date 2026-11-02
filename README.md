@@ -27,6 +27,7 @@
 | 02 | [AI Technologies](docs/02-ai-technologies.md) | ML, DL, NLP, and Generative AI |
 | 03 | [AI Applications](docs/03-ai-applications.md) | AI in daily life and industries |
 | 04 | [Benefits and Ethics](docs/04-benefits-ethics.md) | Advantages, limitations, and ethics |
+| 04 | [Future of AI](docs/05-future-of-ai.md) | AI in future |
 | 05 | [Learning Resources](docs/05-resources.md) | References and additional materials |
 
 **- Content breakdown:**
