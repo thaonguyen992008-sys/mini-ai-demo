@@ -1,4 +1,4 @@
-## History and Development of AI
+## ⏳ History and Development of AI
 *Purpose: Show how AI developed through successive research approaches, periods of optimism, setbacks, and technical advances.*
 
 ### Learning outcomes
