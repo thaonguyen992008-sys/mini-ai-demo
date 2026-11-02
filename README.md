@@ -22,9 +22,9 @@
 ## Learning Materials
 
 | No. | Topic | Description |
-|---|---|---|
-| 01 | [Introduction to AI](docs/01-intro-to-ai.md) | Basic concepts and history of AI |
-| 02 | [AI Technologies](docs/02-ai-technologies.md) | ML, DL, NLP, and Generative AI |
+|:---:|---|:---:|
+| 01 | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
+| 02 | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
 | 03 | [AI Applications](docs/03-ai-applications.md) | AI in daily life and industries |
 | 04 | [Benefits and Ethics](docs/04-benefits-ethics.md) | Advantages, limitations, and ethics |
 | 05 | [Future of AI](docs/05-future-of-ai.md) | AI in future |
