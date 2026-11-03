@@ -54,18 +54,18 @@ Imagine training a spam classifier. The dataset contains example emails labelled
 Run a no-code “human classifier” activity. Give learners 12 sample messages labelled spam or not spam and ask them to identify patterns. Then give 4 new messages, including unusual examples. Discuss which patterns helped, where the group disagreed, and why a real model needs separate evaluation data and ongoing monitoring.
 
 ### Check your understanding
-	1. What is the difference between a dataset and a model?
-	2. What is a feature? Give one possible feature for spam detection.
-	3. How does supervised learning differ from unsupervised learning?
-	4. What role does feedback or reward play in reinforcement learning?
-	5. Why test a model on examples not used for training?
-	6. What is overfitting?
+  1. What is the difference between a dataset and a model?
+  2. What is a feature? Give one possible feature for spam detection.
+  3. How does supervised learning differ from unsupervised learning?
+  4. What role does feedback or reward play in reinforcement learning?
+  5. Why test a model on examples not used for training?
+  6. What is overfitting?
 
 ### Common misconceptions to avoid
-	Machine Learning means a computer learns exactly as a human does.
-	A model that scores highly on training data must be reliable in the real world.
-	More data always guarantees a better model, even when data is biased or poor quality.
-	Accuracy is always the best metric for every problem.
+  Machine Learning means a computer learns exactly as a human does.
+  A model that scores highly on training data must be reliable in the real world.
+  More data always guarantees a better model, even when data is biased or poor quality.
+  Accuracy is always the best metric for every problem.
 
 ### Key takeaways
 -	Machine Learning is one important approach within AI.
