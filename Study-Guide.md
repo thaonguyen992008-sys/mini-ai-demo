@@ -1,13 +1,10 @@
-<h1 align="center">
-  <span style="color: #3498DB;">
-    📚 AI Overview – Study Guide
-  </span>
-</h1>
-Welcome to the AI Overview Study Guide!
+<h1 align="center">📚 AI Overview – Study Guide</h1>
+<p align="center"><em>Welcome to the AI Overview Study Guide!</em></p>
 
-This guide introduces beginners to Artificial Intelligence
-through nine main topics, practical examples, and learning activities.
+<p align="center"><b>This guide introduces beginners to Artificial Intelligence
+through nine main topics, practical examples, and learning activities.</b></p>
 
+---
 ### 1. Module Overview
 #### 1.1 Project Purpose
 The purpose of this project is to introduce the fundamental concepts, technologies, applications, and ethical considerations of Artificial Intelligence (AI).
