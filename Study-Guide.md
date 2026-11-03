@@ -27,5 +27,16 @@ The module follows a beginner-friendly learning approach:
   4. Experiment: Participate in practical activities and simple demonstrations.
   5. Evaluate: Think critically about AI's benefits, limitations and ethical issues.
 
+### 2. Learning Materials
 
-## Table of Contents
+| No. | Topic | Description |
+|:---:|---|:---|
+| 01 | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
+| 02 | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
+| 03 | [Types and Capabilities of AI](docs/03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
+| 04 | [Machine Learning](docs/04-machine-learning.md) | Learn how machines use data to identify patterns and make predictions |
+| 05 | [Deep Learning and Neural Networks](docs/05-deep-learning-and-neural-networks.md) | Understand how neural networks work and how they learn complex patterns |
+| 06 | [Generative AI and Large Language Models](docs/06-generative-ai-and-llms.md) | Discover how AI generates text, images, and other types of content |
+| 07 | [Real-World Applications of AI](docs/07-real-world-applications-of-ai.md) | Explore how AI is applied in education, healthcare, business, and everyday life |
+| 08 | [Benefits, Risks and AI Ethics](docs/08-benefits-risks-and-ai-ethics.md) | Examine the advantages, limitations, risks, and ethical issues of AI |
+| 09 | [The Future of AI](docs/09-the-future-of-ai.md) | Explore emerging AI trends and possible future developments |
