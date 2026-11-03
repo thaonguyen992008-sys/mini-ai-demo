@@ -22,7 +22,7 @@
 ## Learning Materials
 
 | No. | Topic | Description |
-|:---:|---|:---:|
+|:---:|---|:---|
 | 01 | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | 02 | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
 | 03 | [Types and Capabilities of AI](docs/03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
