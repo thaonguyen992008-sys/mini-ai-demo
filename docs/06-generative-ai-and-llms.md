@@ -1,4 +1,4 @@
-## Generative AI and Large Language Models
+## ⚙ Generative AI and Large Language Models
 *Purpose: Explain how generative systems produce content, how LLMs handle language, and how users can prompt and verify outputs responsibly.*
 
 ### Learning outcomes
