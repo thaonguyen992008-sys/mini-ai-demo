@@ -49,7 +49,7 @@ This project is designed for students and beginners who are interested in AI but
 ### 6. Learning Resources
 | Resource | Description | Link |
 |---|---|---|
-| Study Guide | Detailed learning materials for beginners | [Explore](./Study-Guide/) |
+| Study Guide | Detailed learning materials for beginners | [Explore](./Study-Guide.md/) |
 | Test Bank | Practice questions and answer explanations | [Explore](./Test-Bank/) |
 | PPT Slides | Presentation materials | [Explore](./PPT-Slides/) |
 | Video Tutorials | Video lessons and demonstrations | [Explore](./Video-Tutorials/) |
