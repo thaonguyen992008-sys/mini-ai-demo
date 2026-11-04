@@ -1,5 +1,5 @@
-## 🗂️ Machine Learning
-*Purpose: Explain how a model uses examples and data to learn patterns that support classification, prediction, or other tasks.*
+<h2 align="center">🗂️ Machine Learning</h2>
+<p align="center"><em>Purpose: Explain how a model uses examples and data to learn patterns that support classification, prediction, or other tasks.</em></p>
 
 ### Learning outcomes
 - Define Machine Learning and its relationship to AI.
