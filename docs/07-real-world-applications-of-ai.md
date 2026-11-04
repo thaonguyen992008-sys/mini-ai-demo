@@ -1,7 +1,7 @@
-## Real-World Applications of AI
-*Purpose: Connect technical ideas to real-world problems and evaluate how AI supports people and organizations in different sectors.*
+<h2 align="center">🧩 Real-World Applications of AI</h2>
+<p align="center"><em>Purpose: Connect technical ideas to real-world problems and evaluate how AI supports people and organizations in different sectors.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 - Identify AI applications in at least five sectors.
 - Explain the problem, input data, AI capability, and output in a use case.
 - Recognize that AI is often one component in a larger human and technical system.
@@ -31,26 +31,26 @@ Recommendation systems can rank music, films, videos, products, or news based on
 #### 7.8 AI is part of a sociotechnical system
 An AI application includes more than a model. It also includes people, data collection, user interfaces, organizational rules, infrastructure, monitoring, and decision processes. A technically accurate model can still cause harm if used for the wrong purpose or if people misunderstand its limitations.
 
-### Worked example
+### Worked Example
 A route-planning service estimates travel time and suggests a route. It may use road-network data, current or historical traffic information, location inputs, and prediction algorithms. The output is a recommendation, not a guarantee. Road closures, accidents, weather, or inaccurate location data may change the best route. The user remains responsible for following road rules and driving safely.
 
 ### Try it: learning activity
 Industry case-study challenge: groups choose education, healthcare, transport, business, agriculture, or entertainment. They complete a canvas with six fields: problem, data, AI capability, output, expected benefit, and possible risk/safeguard. Each group gives a one-minute explanation and identifies one situation where human judgment remains important.
 
-### Check your understanding
+### Check your Understanding
   1. Name three sectors where AI is used and give one example for each.
   2. What information might a route-planning system use?
   3. Why must healthcare AI be evaluated and monitored carefully?
   4. Why is an AI model only one part of a larger sociotechnical system?
   5. Give one benefit and one risk of recommendation systems.
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
 -	Every application marketed as AI uses the same technology.
 -	AI outputs should automatically replace professional judgment in high-impact contexts.
 -	A model that works in a laboratory will necessarily work equally well everywhere.
 -	Recommendations are neutral and show every possible option.
 
-### Key takeaways
+### Key Takeaways
 -	AI is applied to different problems using different methods and data.
 -	Every use case should be evaluated in its real context.
 -	High-impact applications need validation, monitoring, safeguards, and appropriate human oversight.
