@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The AI Village Adventure – Giải cứu Làng AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top bar with the game title -->
+  <header class="topbar">
+    <h1>The AI Village Adventure <span>Giải cứu Làng AI</span></h1>
+    <div class="topbar-right">
+      <p class="version">Version 0.4 · 9 areas + final battle + audio</p>
+      <button id="audio-btn" class="audio-btn" type="button" aria-expanded="false" aria-controls="audio-panel">🔊 Audio</button>
+    </div>
+
+    <!-- Audio settings (audio.js): ON/OFF and volume for music, sound effects and voices -->
+    <div id="audio-panel" class="audio-panel hidden" role="dialog" aria-label="Audio settings">
+      <h2>Audio settings</h2>
+      <div class="audio-row">
+        <span class="audio-label">🎵 Music</span>
+        <button id="audio-music-toggle" class="audio-toggle" type="button" aria-pressed="true" aria-label="Music on or off">ON</button>
+        <input id="audio-music-vol" class="audio-vol" type="range" min="0" max="100" step="5" aria-label="Music volume">
+        <output id="audio-music-value" class="audio-value" for="audio-music-vol">50%</output>
+        <span class="audio-test-gap"></span>
+      </div>
+      <div class="audio-row">
+        <span class="audio-label">🔔 Sound effects</span>
+        <button id="audio-sfx-toggle" class="audio-toggle" type="button" aria-pressed="true" aria-label="Sound effects on or off">ON</button>
+        <input id="audio-sfx-vol" class="audio-vol" type="range" min="0" max="100" step="5" aria-label="Sound effects volume">
+        <output id="audio-sfx-value" class="audio-value" for="audio-sfx-vol">50%</output>
+        <button id="audio-sfx-test" class="audio-test" type="button">Test</button>
+      </div>
+      <div class="audio-row">
+        <span class="audio-label">🗣️ Voices</span>
+        <button id="audio-voice-toggle" class="audio-toggle" type="button" aria-pressed="true" aria-label="Voices on or off">ON</button>
+        <input id="audio-voice-vol" class="audio-vol" type="range" min="0" max="100" step="5" aria-label="Voices volume">
+        <output id="audio-voice-value" class="audio-value" for="audio-voice-vol">50%</output>
+        <button id="audio-voice-test" class="audio-test" type="button">Test</button>
+      </div>
+      <p id="audio-note" class="audio-note" aria-live="polite"></p>
+      <div class="audio-footer"><button id="audio-close" class="btn-tool" type="button">Close (Esc)</button></div>
+    </div>
+  </header>
+
+  <main class="layout">
+
+    <!-- LEFT: the game screen -->
+    <section class="game-wrap" aria-label="Game area">
+      <!-- The village is drawn on this canvas by script.js -->
+      <canvas id="game" width="768" height="480" tabindex="0"
+              aria-label="Top-down view of Làng AI village"></canvas>
+
+      <!-- Start screen (shown first) -->
+      <div id="start-screen" class="overlay start">
+        <div class="start-card">
+          <p class="eyebrow">An educational adventure</p>
+          <h2>The AI Village Adventure</h2>
+          <p class="subtitle">Giải cứu Làng AI</p>
+          <p class="story">
+            A glitch called <strong>BUG.exe</strong> has disrupted the village.
+            Help <strong>NIAN</strong> and the robot <strong>Wang</strong> restore its nine areas.
+          </p>
+          <button id="start-btn" class="btn-start" type="button">Start</button>
+          <button id="new-game-btn" class="btn-link hidden" type="button">New game</button>
+          <p class="hint">Move: WASD / Arrow keys · Talk: E · Next line: Space or Enter · Hint in puzzles: H</p>
+        </div>
+      </div>
+
+      <!-- Dialogue box (hidden until someone talks).
+           NIAN's face is on the left, the other speaker on the right;
+           the one who is speaking is highlighted. -->
+      <div id="dialogue" class="dialogue hidden" role="dialog" aria-label="Dialogue">
+        <div id="portrait-nian" class="portrait portrait-nian" aria-hidden="true"></div>
+        <div class="dialogue-body">
+          <p id="dialogue-name" class="speaker"></p>
+          <p id="dialogue-text" aria-hidden="true"></p>
+          <p class="continue">Space / Enter / click ▶</p>
+        </div>
+        <div id="portrait-right" class="portrait portrait-right" aria-hidden="true"></div>
+      </div>
+      <!-- Screen readers hear each full line here (no typing effect) -->
+      <p id="dialogue-sr" class="sr-only" aria-live="polite"></p>
+
+      <!-- Puzzle panel: explorations, mini-games, knowledge checks and rewards -->
+      <div id="activity" class="activity hidden" role="dialog" aria-modal="true" aria-labelledby="activity-title">
+        <div class="activity-card">
+          <div class="activity-head">
+            <div>
+              <p id="activity-kicker" class="activity-kicker"></p>
+              <h2 id="activity-title"></h2>
+            </div>
+            <div class="activity-tools">
+              <button id="hint-btn" class="btn-tool" type="button">🤖 Hint (H)</button>
+              <button id="close-btn" class="btn-tool" type="button">Close (Esc)</button>
+            </div>
+          </div>
+          <p id="hint-box" class="hint-box hidden" aria-live="polite"></p>
+          <div id="activity-body"></div>
+          <p id="activity-feedback" class="feedback hidden" aria-live="polite"></p>
+          <div id="activity-footer" class="activity-footer"></div>
+        </div>
+      </div>
+
+      <!-- Final battle: BUG.exe's misconception card (finale.js) -->
+      <div id="boss-panel" class="boss-panel hidden" role="dialog" aria-labelledby="boss-prompt">
+        <div class="boss-card">
+          <div class="activity-head">
+            <div>
+              <p id="boss-kicker" class="activity-kicker"></p>
+              <p id="boss-taunt" class="boss-taunt"></p>
+            </div>
+            <div class="activity-tools">
+              <button id="boss-hint-btn" class="btn-tool" type="button">🤖 Hint (H)</button>
+            </div>
+          </div>
+          <p id="boss-hint" class="hint-box hidden" aria-live="polite"></p>
+          <p id="boss-prompt" class="prompt"></p>
+          <div id="boss-options" class="options"></div>
+          <p id="boss-feedback" class="feedback hidden" aria-live="polite"></p>
+          <div id="boss-footer" class="activity-footer"></div>
+        </div>
+      </div>
+
+      <!-- Ending: congratulations screen (finale.js) -->
+      <div id="congrats" class="overlay congrats hidden" role="dialog" aria-modal="true" aria-labelledby="congrats-title">
+        <div class="congrats-card">
+          <p class="congrats-stars" aria-hidden="true">★ ★ ★</p>
+          <h2 id="congrats-title"></h2>
+          <div id="congrats-body"></div>
+          <ol class="congrats-seals" aria-label="All nine Knowledge Seals collected">
+            <li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li>
+          </ol>
+          <button id="congrats-keep" class="btn-start" type="button">Keep exploring the village</button>
+          <button id="congrats-again" class="btn-link" type="button">Play again from the start</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT: side panel -->
+    <aside class="panel">
+      <section class="card">
+        <h2>Objective</h2>
+        <p id="objective-area" class="objective-area"></p>
+        <p id="objective-text" aria-live="polite"></p>
+        <ul id="objective-list"></ul>
+      </section>
+
+      <section class="card">
+        <h2>Progress</h2>
+        <div class="bar" role="progressbar" aria-label="Village restored"
+             aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div id="progress-fill"></div>
+        </div>
+        <p id="progress-label"></p>
+        <h3>Knowledge Seals <span id="seal-count">0 / 9</span></h3>
+        <ol id="seals"></ol>
+      </section>
+
+      <section class="card controls">
+        <h2>Controls</h2>
+        <dl>
+          <dt><kbd>WASD</kbd> <kbd>↑←↓→</kbd></dt>
+          <dd>Move NIAN</dd>
+          <dt><kbd>E</kbd></dt>
+          <dd>Talk / inspect</dd>
+          <dt><kbd>Space</kbd> <kbd>Enter</kbd></dt>
+          <dd>Next line · answer</dd>
+          <dt><kbd>Tab</kbd></dt>
+          <dd>Next answer button</dd>
+          <dt><kbd>H</kbd> <kbd>Esc</kbd></dt>
+          <dd>Hint · close puzzle</dd>
+        </dl>
+      </section>
+    </aside>
+
+  </main>
+
+  <!-- Content first (levels.js), then the final stage (finale-assets.js, finale.js),
+       the audio system (audio.js), then the game engine (script.js). Keep this order. -->
+  <script src="levels.js"></script>
+  <script src="finale-assets.js"></script>
+  <script src="finale.js"></script>
+  <script src="audio.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
