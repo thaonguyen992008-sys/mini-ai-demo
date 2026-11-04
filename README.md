@@ -3,7 +3,7 @@
 A 2D pixel-art educational game for the **AI Overview** module.
 Play as **NIAN** with the robot companion **Wang**, restore nine areas of Làng AI, one per topic, and defeat **BUG.exe**, the glitch that filled the village with misconceptions.
 
-**Play online:** `https://<your-github-username>.github.io/<repository-name>/` *(add the link after deploying)*
+**Play online:** `http://127.0.0.1:5500/ai-village-adventure-1/index.html` *(add the link after deploying)*
 
 ---
 
