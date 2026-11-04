@@ -27,7 +27,11 @@ AI Overview is an educational project designed to introduce beginners to the fun
 
 ### 2. Project Purpose
 
-The purpose of this project is to make Artificial Intelligence easier to understand through simple explanations, practical examples, interactive activities, and engaging learning resources.
+The purpose of this project is to introduce the fundamental concepts, technologies, applications, and ethical considerations of Artificial Intelligence (AI).
+
+Through collecting, organizing, and explaining information from reliable sources, this module aims to make AI knowledge accessible to beginners.
+
+Rather than focusing only on technical theories, the project connects AI concepts with familiar examples, practical activities, and real-world situations. Learners can gradually understand how AI works, where it is used, what benefits it offers, and what challenges it creates.
 
 ### 3. Target Learners
 
