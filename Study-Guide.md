@@ -112,7 +112,7 @@ This topic introduces Machine Learning (ML), a major branch of Artificial Intell
 Learners can explain how Machine Learning works, identify its main learning approaches, and recognize its practical applications.
 
 ---
-### Topic 5: Deep Learning and Neural Networks
+### 📑 Topic 5: Deep Learning and Neural Networks
 
 #### Overview:
 This topic explores Deep Learning, a specialized area of Machine Learning inspired by the structure and functions of the human brain. Learners will understand the basic structure of artificial neural networks and how multiple layers help AI systems learn complex patterns.
