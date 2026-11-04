@@ -161,7 +161,7 @@ This topic explores how Artificial Intelligence is used across different industr
 Learners can identify and explain practical applications of AI across different industries and aspects of daily life.
 
 ---
-### Topic 8: Benefits, Risks and AI Ethics
+### ⚖️ Topic 8: Benefits, Risks and AI Ethics
 
 #### Overview:
 This topic examines the positive impacts, potential risks, and ethical challenges of Artificial Intelligence. Learners will consider how AI affects individuals and society while exploring the importance of fairness, privacy, transparency, and responsible AI use.
