@@ -1,5 +1,5 @@
 <h2 align="center">🦾 Types and Capabilities of AI</h2>
-<p align="center"><em>Purpose: Introduce capability-based labels and distinguish today's task-focused systems from debated or hypothetical forms of broader intelligence.</em></p>
+<p align="center"><em>Purpose: Explain AI capability levels, from task-specific systems to broader intelligence.</em></p>
 
 ### Learning Outcomes
 -	Describe Narrow AI.
