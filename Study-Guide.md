@@ -129,7 +129,7 @@ This topic explores Deep Learning, a specialized area of Machine Learning inspir
 Learners can explain the basic structure of neural networks and describe how Deep Learning helps machines process complex information.
 
 ---
-### Topic 6: Generative AI and Large Language Models
+### ⚙ Topic 6: Generative AI and Large Language Models
 
 #### Overview:
 This topic introduces Generative AI and Large Language Models (LLMs), which can create new content such as text, images, audio, and code. Learners will explore how these technologies work at a basic level, their common applications, and their limitations.
