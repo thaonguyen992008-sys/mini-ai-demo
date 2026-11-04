@@ -1,7 +1,7 @@
-## Benefits, Risks, and AI Ethics
-*Purpose: Help learners evaluate AI beyond its technical capabilities and identify principles for responsible design, deployment, and use.*
+<h2 align="center">⚖️ Benefits, Risks, and AI Ethics</h2>
+<p align="center"><em>Purpose: Help learners evaluate AI beyond its technical capabilities and identify principles for responsible design, deployment, and use.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 -	Describe potential benefits and limitations of AI.
 -	Recognize privacy, bias, misinformation, safety, security, and accountability risks.
 -	Explain fairness, transparency, human oversight, and responsibility.
@@ -44,13 +44,13 @@ Organizations and people remain responsible for how AI systems are selected, dep
 #### 8.9 Responsible use by students
 Students should follow course and school policies, disclose AI assistance when required, verify factual content, avoid submitting generated work as their own when prohibited, and protect personal or confidential information. AI can support learning when used to explain, quiz, brainstorm, or provide feedback, but it should not replace the learner's own understanding.
 
-### Worked example
+### Worked Example
 A school considers using an AI tool to flag students who may be at risk of failing. Ask what data the tool uses, whether it reflects unequal access to resources, how accurate predictions are for different groups, who can see the results, whether students can correct errors, and whether a teacher reviews the information before action is taken. The purpose may be supportive, but safeguards are still required.
 
 ### Try it: learning activity
 Run an ethical decision workshop. Each group receives one scenario: AI-assisted student assessment, automated hiring screening, facial recognition at an event, or a chatbot giving health information. Groups use the seven-step checklist. They identify at least one affected group, one potential harm, one safeguard, and one decision that should remain accountable to a human or organization.
 
-### Check your understanding
+### Check your Understanding
   1. Name three possible benefits and three risks of AI.
   2. How can biased training data lead to unfair outcomes?
   3. Give one practical way to protect privacy when using an AI tool.
@@ -58,14 +58,14 @@ Run an ethical decision workshop. Each group receives one scenario: AI-assisted 
   5. What is the difference between transparency and accountability?
   6. Apply two items from the ethical review checklist to a school scenario.
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
 -	AI is automatically fair because it uses mathematics.
 -	Human oversight means a person only approves outputs without reviewing them.
 -	A model-generated explanation is always complete and trustworthy.
 -	Only developers are responsible for AI impacts.
 -	AI-generated media is always easy to identify.
 
-### Key takeaways
+### Key Takeaways
 -	AI can bring benefits, but outcomes depend on design, data, deployment, and governance.
 -	Bias, privacy, misinformation, safety, and security require active attention.
 -	Fairness and transparency must be evaluated in context.
