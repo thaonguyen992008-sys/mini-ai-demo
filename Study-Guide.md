@@ -1,4 +1,4 @@
-<h1 align="center"> AI OVERVIEW - Study Guide</h1>
+<h1 align="center"><b>AI OVERVIEW - Study Guide</b></h1>
 <p align="center"><em>Welcome to the AI Overview Study Guide!</em></p>
 
 <p align="center"><b>This guide introduces beginners to Artificial Intelligence
