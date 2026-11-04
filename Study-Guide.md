@@ -69,7 +69,7 @@ This topic explores the historical development of Artificial Intelligence, from 
 Learners can describe the major stages of AI development and identify important milestones in its history.
 
 ---
-### Topic 3: Types and Capabilities of AI
+### 🦾 Topic 3: Types and Capabilities of AI
 
 #### Overview:
 
