@@ -15,7 +15,7 @@ This module is designed for:
 - Current Knowledge Level: Have heard of or experienced familiar AI tools (such as ChatGPT, Gemini), but do not yet fully understand how AI works or its underlying nature.
 - Learning Goals: Help learners master core knowledge, enabling them to effectively apply AI to their studies, work, and daily life.
 
-#### 🚀 Learning Objectives:
+#### Learning Objectives:
 By completing this study guide, learners will be able to:
 - ***Define*** Artificial Intelligence (AI) and explain its core subfields.
 - ***Distinguish*** between AI, Machine Learning (ML), and Deep Learning (DL).
@@ -186,7 +186,7 @@ This topic examines the positive impacts, potential risks, and ethical challenge
 Learners can identify the benefits and risks of AI, recognize common ethical issues, and explain the importance of responsible AI use.
 
 ---
-### Topic 9: The Future of AI
+### 🚀 Topic 9: The Future of AI
 
 #### Overview:
 
@@ -207,8 +207,8 @@ Learners can identify emerging AI trends and discuss possible opportunities and 
 
 ---
 ## 🗺️ Learning Materials
-| 📑 No. | 📌 Topic Title | 🔑 Description |
-| :---: | --- | :---: |
+| 📑 No. | 📌 Topic Title | Description |
+| :---: | --- | --- |
 | **01** | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | **02** | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
 | **03** | [Types and Capabilities of AI](docs/03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
