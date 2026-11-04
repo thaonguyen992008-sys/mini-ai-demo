@@ -1,41 +1,53 @@
+
 # AI Overview
 
 ## A. Team Information
 
-**- Team name:** 旺仔牛奶
+**Team name:** 旺仔牛奶
 
-**- Module:** AI Overview
+**Module:** AI Overview
 
-**- Team members:** 
-  | Number |  Name  | Student ID | GitHub username |
-  | :---: | :---: | :---: | :---: |
-  | 1. | Nguyen Van Nghi | 1820262352 | NguyenVanNghi |
-  | 2. | Tran Khanh Quyen | 1820262358 | TranKhanhQuyen |
-  | 3. | Le Xuan Mai | 1820262052 | Mai241 |
-  | 4. | Tran Thao Nguyen | 1820262325 | Thao Nguyen |
-  | 5. | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 | 
+**Team members:**
+
+| Number | Name | Student ID | GitHub Username |
+|:---:|---|:---:|---|
+| 1 | Nguyen Van Nghi | 1820262352 | NguyenVanNghi |
+| 2 | Tran Khanh Quyen | 1820262358 | TranKhanhQuyen |
+| 3 | Le Xuan Mai | 1820262052 | Mai241 |
+| 4 | Tran Thao Nguyen | 1820262325 | Thao Nguyen |
+| 5 | Nguyen Tran Khanh Ngoc | 1820262330 | ngtrankhanhngoc08 |
 
 ---
+
 ## B. Project Information
+
 ### 1. Project Introduction
-AI Overview is an educational project  designed to introduce beginners to the fundamental concepts, technologies and real-world applications of Artificial Intelligence.
+
+AI Overview is an educational project designed to introduce beginners to the fundamental concepts, technologies, and real-world applications of Artificial Intelligence.
 
 ### 2. Project Purpose
-The purpose of this project is to make Artificial Intelligence easier to understand through simple explanations, practical examples, interactive activities and engaging learning resources.
+
+The purpose of this project is to make Artificial Intelligence easier to understand through simple explanations, practical examples, interactive activities, and engaging learning resources.
 
 ### 3. Target Learners
+
 This project is designed for students and beginners who are interested in AI but have little or no background in computer science or programming.
 
-### 4. Learning Objective 
-- Understand the basic concepts of Artificial Intelligence.
-- Identify major AI technologies.
-- Recognize real-world applications of AI.
-- Analyze the benefits and potential risks of AI.
+### 4. Learning Objectives
+
+By completing this module, learners will be able to:
+
+- Understand the fundamental concepts and definitions of Artificial Intelligence.
+- Differentiate between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
+- Identify major AI technologies and their capabilities.
+- Recognize real-world applications of AI across different industries and everyday life.
+- Analyze the benefits, limitations, risks, and ethical considerations of AI.
 - Develop a basic understanding of AI's future development.
 
 ### 5. Module Overview
+
 | No. | Topic | Description |
-|:---:|---|:---|
+|:---:|---|---|
 | 01 | Introduction to AI | Understand the basic concepts and definitions of Artificial Intelligence |
 | 02 | History and Development of AI | Discover how Artificial Intelligence has evolved over time |
 | 03 | Types and Capabilities of AI | Explore different types of AI and what they can do |
@@ -46,7 +58,19 @@ This project is designed for students and beginners who are interested in AI but
 | 08 | Benefits, Risks and AI Ethics | Examine the advantages, limitations, risks, and ethical issues of AI |
 | 09 | The Future of AI | Explore emerging AI trends and possible future developments |
 
-### 6. Learning Resources
+### 6. Learning Approach
+
+The module combines different learning methods to make AI concepts easier to understand:
+
+- **Concept Explanations:** Simple explanations of fundamental AI concepts and technologies.
+- **Practical Case Studies:** Real-world examples, such as facial recognition technology (Apple Face ID).
+- **Interactive Quizzes:** Activities that help learners distinguish between traditional programming and Machine Learning.
+- **Discussion Activities:** Exploring ethical issues related to AI, including algorithmic bias and data privacy.
+
+**Prerequisites:** No prior programming or technical experience is required. Basic digital literacy is sufficient.
+
+### 7. Learning Resources
+
 | Resource | Description | Link |
 |---|---|---|
 | Study Guide | Detailed learning materials for beginners | [Explore](./Study-Guide.md/) |
@@ -56,90 +80,33 @@ This project is designed for students and beginners who are interested in AI but
 | Supplements | Additional learning activities | [Explore](./Supplements/) |
 
 ---
+
 ## C. How to Use This Repository
+
 1. Start with the Study Guide to understand the fundamental concepts.
-2. Explore the interactive activities and examples.
+2. Explore the interactive activities and practical examples.
 3. Review the PPT Slides to reinforce important knowledge.
 4. Watch the Video Tutorials for visual explanations and demonstrations.
 5. Complete the Test Bank to evaluate your understanding.
 
 ---
+
 ## D. Project Progress
+
 | Component | Status |
-|:---|:---:|
+|---|:---:|
 | Shared Markdown Content V2.0 | In Progress |
 | Study Guide | In Progress |
 | Test Bank | In Progress |
-| PPT Slides | In Progress | 
+| PPT Slides | In Progress |
 | Video Tutorials | In Progress |
 | Quality Review | Pending |
 
 ---
+
 ## E. References & Acknowledgements
 
----
-# STUDY GUIDE
 
-
-**- Content breakdown:**
-- **Introduction to AI:** Basic concepts and history of AI.
-- **AI Technologies:** Machine Learning, Deep Learning, and Natural Language Processing (NLP).
-- **AI Applications:** Uses of AI in daily life and different industries.
-- **Benefits and Challenges:** Advantages, limitations, and ethical issues.
-- **Learning Resources:** Additional materials and references.
-
----
-
-## B. Develop the Module Structure
-
-- **Intended learning outcomes:**
-  - Define core AI concepts in simple terms.
-  - Explain the structural hierarchy connecting AI, ML, and DL.
-  - Recognize real-world applications of AI across everyday consumer tools and major industries.
-  - Identify ethical considerations such as algorithmic bias and data privacy.
-
-- **Major topics and subtopics in a logical learning sequence:**
-  1. Introduction to AI (Definition & Evolution)
-  2. The AI Ecosystem (AI vs. ML vs. DL)
-  3. Core AI Technologies (Computer Vision & NLP)
-  4. Real-World Applications & Industry Use Cases
-  5. AI Ethics, Opportunities, and Challenges
-
-- **Any prerequisite knowledge learners will need:**
-  - No prior technical or programming experience is required.
-  - Basic digital literacy (familiarity with smartphones, browsers, and standard web applications).
-
-- **Planned examples, demonstrations, questions, or activities:**
-  - *Case Study:* Facial recognition technology (Apple Face ID).
-  - *Interactive Quiz:* Distinguishing between traditional software rules and Machine Learning predictions.
-  - *Discussion Prompt:* Ethical dilemmas regarding automated decision-making.
-
-## C. Substantive Markdown Content
-## 1. Learning Objectives
-By the end of this topic, learners will be able to:
-* Define Artificial Intelligence (AI) accurately from a modern perspective.
-* Clearly differentiate among three key concepts: AI, Machine Learning (ML), and Deep Learning (DL).
-* Identify practical AI applications integrated into everyday life.
-
-## 2. What is Artificial Intelligence (AI)?
-Artificial Intelligence (AI) is a branch of computer science focused on building systems or machines capable of performing tasks that typically require human intelligence (such as learning, reasoning, problem-solving, and speech or image recognition).
-
-### The Relationship among AI, Machine Learning, and Deep Learning:
-We can visualize this relationship as a series of nested sets:
-
-1. **Artificial Intelligence (AI):** The overarching field — machines simulating intelligent human behavior.
-2. **Machine Learning (ML):** A subset of AI — machines learning patterns from data without being explicitly programmed with hard rules.
-3. **Deep Learning (DL):** A subset of ML — utilizing multi-layered artificial neural networks to process complex data (images, audio, text).
-
-| Criteria | Artificial Intelligence (AI) | Machine Learning (ML) | Deep Learning (DL) |
-| :--- | :--- | :--- | :--- |
-| **Scope** | Broadest umbrella | Intermediate | Narrow & Specialized |
-| **Working Principle** | Simulating intelligent behavior | Learning rules from data | Modeling biological neural networks |
-| **Data Required** | Varies by approach | Moderate | Massive (Big Data) |
-
-## 3. Practical Case Study
-* **Scenario:** Face Recognition for unlocking an iPhone (Face ID) falls under which domain?
-* **Answer & Explanation:** This is an application of **Deep Learning** within the field of **Computer Vision**, which is a specialized subset of Machine Learning and overall AI.
 
 
 
