@@ -1,7 +1,7 @@
-## ⚙ Generative AI and Large Language Models
-*Purpose: Explain how generative systems produce content, how LLMs handle language, and how users can prompt and verify outputs responsibly.*
+<h2 align="center">⚙ Generative AI and Large Language Models</h2>
+<p align="center"><em>Purpose: Explain how Generative AI creates content and how to use LLMs effectively and responsibly.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 -	Define Generative AI and identify several output types.
 -	Explain what a Large Language Model is at a high level.
 -	Describe tokens and next-token prediction in beginner-friendly language.
@@ -40,13 +40,13 @@ An LLM may generate fabricated or incorrect information in a confident style. Th
 #### 6.8 Safe and responsible use
 Do not enter passwords, private records, confidential business information, or sensitive personal data into a public AI tool unless the tool and use have been specifically approved. Follow school rules on AI assistance and disclosure. Check facts, calculations, quotations, and references. Treat generated work as a draft requiring human review.
 
-### Worked example
+### Worked Example
 Compare two prompts. A: “Explain AI.” B: “Explain the difference between AI, Machine Learning, and Deep Learning to a first-year university student with no coding experience. Use a short comparison table, one everyday example for each term, and a final three-question quiz. If a point is uncertain, say so.” Prompt B specifies task, audience, scope, structure, and quality expectations. It may produce a more useful answer, but factual claims still need checking.
 
 ### Try it: learning activity
 Prompt-improvement and fact-check activity: learners begin with a vague prompt, revise it by adding audience, context, task, constraints, and format, then compare outputs. Each learner selects one factual claim and verifies it using an independent reliable source. Mark which parts are useful, uncertain, unsupported, or wrong.
 
-### Check your understanding
+### Check your Understanding
   1. What is Generative AI?
   2. What is an LLM, and what kind of content is it mainly designed to process and generate?
   3. What is a token?
@@ -54,14 +54,14 @@ Prompt-improvement and fact-check activity: learners begin with a vague prompt, 
   5. List four components of a clear prompt.
   6. What should a learner do before relying on an AI-generated reference or factual claim?
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
 -	Generative AI and LLM mean exactly the same thing.
 -	Every AI-generated answer is based on a live Internet search.
 -	A fluent response proves every statement is true.
 -	Prompting removes all model limitations.
 -	Public AI tools are automatically safe places for confidential information.
 
-### Key takeaways
+### Key Takeaways
 -	Generative AI creates content in several modalities; LLMs focus on language.
 -	Many LLMs generate text by predicting tokens step by step from context.
 -	Clear prompts improve task alignment but do not guarantee correctness.
