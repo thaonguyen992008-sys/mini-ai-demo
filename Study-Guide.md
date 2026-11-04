@@ -6,22 +6,27 @@ through nine main topics, practical examples, and learning activities.</b></p>
 
 ---
 ## 🎯 Project Overview
-* **Purpose:** Make Artificial Intelligence accessible to beginners through simplified explanations, practical case studies, interactive activities, and ethical reflections.
-* **Target Audience:** Beginners and students with little to no background in computer science or programming.
-* **Prerequisites:** None (Basic digital literacy is sufficient).
+#### Project Purpose:
+Make Artificial Intelligence accessible to beginners through simplified explanations, practical case studies, interactive activities, and ethical reflections.
 
-### 🚀1.1 Learning Objectives
+#### Target Learners:
+This module is designed for:
+- Learners: Students or beginners who are interested in Artificial Intelligence; learners exploring technology who do not have a background in programming or computer science.
+- Current Knowledge Level: Have heard of or experienced familiar AI tools (such as ChatGPT, Gemini), but do not yet fully understand how AI works or its underlying nature.
+- Learning Goals: Help learners master core knowledge, enabling them to effectively apply AI to their studies, work, and daily life.
+
+#### 🚀 Learning Objectives:
 By completing this study guide, learners will be able to:
-* **Define** Artificial Intelligence (AI) and explain its core subfields.
-* **Distinguish** between AI, Machine Learning (ML), and Deep Learning (DL).
-* **Trace** key historical milestones and understand periods of growth and setback (AI Winters ❄️).
-* **Differentiate** capability-based concepts: Narrow AI, AGI, and ASI.
-* **Explain** how ML models learn using data, features, labels, and training processes.
-* **Understand** the architecture of artificial neural networks and how Deep Learning processes complex data.
-* **Describe** Generative AI and Large Language Models (LLMs), including tokenization, next-token prediction, and effective prompting.
-* **Evaluate** real-world AI applications across education, healthcare, transport, business, agriculture, and everyday services.
-* **Analyze** ethical issues including bias, privacy, hallucinations, and accountability using a structured review framework.
-* **Critically assess** emerging trends and future scenarios using evidence-based reasoning.
+- ***Define*** Artificial Intelligence (AI) and explain its core subfields.
+- ***Distinguish*** between AI, Machine Learning (ML), and Deep Learning (DL).
+- ***Trace*** key historical milestones and understand periods of growth and setback (AI Winters ❄️).
+- ***Differentiate*** capability-based concepts: Narrow AI, AGI, and ASI.
+- ***Explain*** how ML models learn using data, features, labels, and training processes.
+- ***Understand*** the architecture of artificial neural networks and how Deep Learning processes complex data.
+- ***Describe*** Generative AI and Large Language Models (LLMs), including tokenization, next-token prediction, and effective prompting.
+- ***Evaluate*** real-world AI applications across education, healthcare, transport, business, agriculture, and everyday services.
+- ***Analyze*** ethical issues including bias, privacy, hallucinations, and accountability using a structured review framework.
+- ***Critically assess*** emerging trends and future scenarios using evidence-based reasoning.
 
 ## 📚 Learning Roadmap
 
@@ -202,7 +207,7 @@ Learners can identify emerging AI trends and discuss possible opportunities and 
 
 ---
 ## 🗺️ Learning Materials
-| 📑 No. | 📌 Topic Title | 🔑 Key Learning Focus |
+| 📑 No. | 📌 Topic Title | 🔑 Description |
 | :---: | --- | :---: |
 | **01** | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | **02** | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
