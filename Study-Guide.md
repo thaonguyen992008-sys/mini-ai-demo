@@ -33,7 +33,7 @@ By completing this study guide, learners will be able to:
 The AI Overview module consists of nine topics arranged in a logical learning sequence. Each topic introduces important concepts and helps learners gradually build their understanding of Artificial Intelligence, from its basic definitions and development to its applications, ethical considerations, and future possibilities.
 
 ---
-### Topic 1: Introduction to AI
+### 📖 Topic 1: Introduction to AI
 
 #### Overview:
 
