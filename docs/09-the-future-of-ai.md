@@ -1,4 +1,4 @@
-## The Future of AI
+## 🚀 The Future of AI
 *Purpose: Encourage evidence-based thinking about emerging AI trends, possible social effects, and the responsibilities involved in shaping future systems.*
 
 ### Learning outcomes
