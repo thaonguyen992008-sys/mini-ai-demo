@@ -5,7 +5,7 @@
 through nine main topics, practical examples, and learning activities.</b></p>
 
 ---
-### 🎯1. Project Overview
+## 🎯 Project Overview
 * **Purpose:** Make Artificial Intelligence accessible to beginners through simplified explanations, practical case studies, interactive activities, and ethical reflections.
 * **Target Audience:** Beginners and students with little to no background in computer science or programming.
 * **Prerequisites:** None (Basic digital literacy is sufficient).
@@ -23,56 +23,54 @@ By completing this study guide, learners will be able to:
 * **Analyze** ethical issues including bias, privacy, hallucinations, and accountability using a structured review framework.
 * **Critically assess** emerging trends and future scenarios using evidence-based reasoning.
 
----
-## 📚 LEARNING ROADMAP
+## 📚 Learning Roadmap
 
 The AI Overview module consists of nine topics arranged in a logical learning sequence. Each topic introduces important concepts and helps learners gradually build their understanding of Artificial Intelligence, from its basic definitions and development to its applications, ethical considerations, and future possibilities.
 
-Topic 1: Introduction to AI
+---
+### Topic 1: Introduction to AI
 
-Overview:
+#### Overview:
 
 This topic introduces the fundamental concepts of Artificial Intelligence (AI). Learners will explore what AI means, its main purposes, and how it enables machines to perform tasks that typically require human intelligence.
 
-Key Content:
+#### Key Content:
 
 - Definition and basic concepts of Artificial Intelligence.
 - Main characteristics and capabilities of AI.
 - Differences between AI systems and traditional computer programs.
 - Familiar examples of AI in everyday life.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can define Artificial Intelligence and explain its basic characteristics using simple examples.
 
 ---
+### Topic 2: History and Development of AI
 
-Topic 2: History and Development of AI
-
-Overview:
+#### Overview:
 
 This topic explores the historical development of Artificial Intelligence, from its early theoretical foundations to modern AI technologies. Learners will discover important milestones, major breakthroughs, and the factors that have influenced AI development over time.
 
-Key Content:
+#### Key Content:
 
 - Early ideas and foundations of Artificial Intelligence.
 - The birth of AI as a research field.
 - Major periods and milestones in AI development.
 - The development of modern AI and recent breakthroughs.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can describe the major stages of AI development and identify important milestones in its history.
 
 ---
+### Topic 3: Types and Capabilities of AI
 
-Topic 3: Types and Capabilities of AI
-
-Overview:
+#### Overview:
 
 This topic introduces different types of Artificial Intelligence based on their capabilities and levels of development. Learners will explore how AI systems differ in their abilities, functions, and potential applications.
 
-Key Content:
+#### Key Content:
 
 - Artificial Narrow Intelligence (ANI).
 - Artificial General Intelligence (AGI).
@@ -80,41 +78,39 @@ Key Content:
 - Current capabilities and limitations of AI systems.
 - Examples of different AI capabilities in real-world situations.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can distinguish between major AI types and recognize the capabilities and limitations of current AI systems.
 
 ---
+### Topic 4: Machine Learning
 
-Topic 4: Machine Learning
-
-Overview:
+#### Overview:
 
 This topic introduces Machine Learning (ML), a major branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
 
-Key Content:
+#### Key Content:
 
 - Definition and basic principles of Machine Learning.
 - The relationship between AI and Machine Learning.
 - Main types of Machine Learning:
-  - Supervised Learning.
-  - Unsupervised Learning.
-  - Reinforcement Learning.
+  + Supervised Learning.
+  + Unsupervised Learning.
+  + Reinforcement Learning.
 - Basic Machine Learning process.
 - Everyday applications of Machine Learning.
 
-Learning Outcome:
+#### Learning Outcome:
 Learners can explain how Machine Learning works, identify its main learning approaches, and recognize its practical applications.
 
 ---
+### Topic 5: Deep Learning and Neural Networks
 
-Topic 5: Deep Learning and Neural Networks
-
-Overview:
+#### Overview:
 
 This topic explores Deep Learning, a specialized area of Machine Learning inspired by the structure and functions of the human brain. Learners will understand the basic structure of artificial neural networks and how multiple layers help AI systems learn complex patterns.
 
-Key Content:
+#### Key Content:
 
 - Definition and basic concepts of Deep Learning.
 - The relationship between Machine Learning and Deep Learning.
@@ -123,19 +119,18 @@ Key Content:
 - How neural networks learn from data.
 - Applications of Deep Learning in image recognition and speech processing.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can explain the basic structure of neural networks and describe how Deep Learning helps machines process complex information.
 
 ---
+### Topic 6: Generative AI and Large Language Models
 
-Topic 6: Generative AI and Large Language Models
-
-Overview:
+#### Overview:
 
 This topic introduces Generative AI and Large Language Models (LLMs), which can create new content such as text, images, audio, and code. Learners will explore how these technologies work at a basic level, their common applications, and their limitations.
 
-Key Content:
+#### Key Content:
 
 - Definition and characteristics of Generative AI.
 - Introduction to Large Language Models (LLMs).
@@ -143,19 +138,18 @@ Key Content:
 - Common Generative AI tools and applications.
 - Benefits, limitations, and challenges of AI-generated content.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can explain the basic concepts of Generative AI and LLMs, identify their applications, and recognize their limitations.
 
 ---
+### Topic 7: Real-World Applications of AI
 
-Topic 7: Real-World Applications of AI
-
-Overview:
+#### Overview:
 
 This topic explores how Artificial Intelligence is used across different industries and everyday activities. Learners will discover how AI helps people solve problems, improve efficiency, automate tasks, and support decision-making.
 
-Key Content:
+#### Key Content:
 
 - AI in education and personalized learning.
 - AI in healthcare and medical support.
@@ -163,19 +157,18 @@ Key Content:
 - AI in transportation and manufacturing.
 - AI in entertainment and everyday consumer applications.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can identify and explain practical applications of AI across different industries and aspects of daily life.
 
 ---
+### Topic 8: Benefits, Risks and AI Ethics
 
-Topic 8: Benefits, Risks and AI Ethics
-
-Overview:
+#### Overview:
 
 This topic examines the positive impacts, potential risks, and ethical challenges of Artificial Intelligence. Learners will consider how AI affects individuals and society while exploring the importance of fairness, privacy, transparency, and responsible AI use.
 
-Key Content:
+#### Key Content:
 
 - Benefits and opportunities of AI.
 - Limitations and potential risks of AI systems.
@@ -184,18 +177,17 @@ Key Content:
 - Transparency and accountability.
 - Responsible AI development and use.
 
-Learning Outcome:
+#### Learning Outcome:
 Learners can identify the benefits and risks of AI, recognize common ethical issues, and explain the importance of responsible AI use.
 
 ---
+### Topic 9: The Future of AI
 
-Topic 9: The Future of AI
-
-Overview:
+#### Overview:
 
 This topic explores possible future developments of Artificial Intelligence and their potential impacts on society. Learners will examine emerging AI trends, opportunities, challenges, and the changing relationship between humans and intelligent technologies.
 
-Key Content:
+#### Key Content:
 
 - Emerging trends and developments in AI.
 - Potential future capabilities of AI systems.
@@ -204,75 +196,73 @@ Key Content:
 - Opportunities and challenges for future society.
 - The importance of developing and using AI responsibly.
 
-Learning Outcome:
+#### Learning Outcome:
 
 Learners can identify emerging AI trends and discuss possible opportunities and challenges that AI may bring in the future.
 
 ---
-### 🗺️ Course Roadmap
-| 📑 Topic No. | 📌 Topic Title | 🔑 Key Learning Focus |
-| :---: | :--- | :--- |
-| **01** | Introduction to Artificial Intelligence | Definitions, core capabilities, AI vs. Automation vs. Robotics |
-| **02** | History and Development of AI | Milestones, Turing Test, Dartmouth Workshop, AI Winters, Deep Learning surge |
-| **03** | Types and Capabilities of AI | Classification schemes, Narrow AI, AGI, ASI, evaluating claims |
-| **04** | Machine Learning | Workflow, Supervised, Unsupervised, Reinforcement Learning, Evaluation metrics |
-| **05** | Deep Learning and Neural Networks | ANN architecture, hidden layers, forward pass, backpropagation, trade-offs |
-| **06** | Generative AI and Large Language Models | LLMs, Transformers, Tokens, Next-token prediction, Prompting, Hallucinations |
-| **07** | Real-World Applications of AI | Domain analysis (Education, Healthcare, Transport, Business, etc.), Sociotechnical systems |
-| **08** | Benefits, Risks, and AI Ethics | Bias, Privacy, Transparency, Accountability, Ethical Checklist, Student Guidelines |
-| **09** | he Future of AI | Trends (Multimodal, Agents, Efficient Models), Task changing vs. job loss, Evidence framework |
+## 🗺️ Learning Materials
+| 📑 No. | 📌 Topic Title | 🔑 Key Learning Focus |
+| :---: | --- | :---: |
+| **01** | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
+| **02** | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
+| **03** | [Types and Capabilities of AI](docs/03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
+| **04** | [Machine Learning](docs/04-machine-learning.md) | Learn how machines use data to identify patterns and make predictions |
+| **05** | [Deep Learning and Neural Networks](docs/05-deep-learning-and-neural-networks.md) | Understand how neural networks work and how they learn complex patterns |
+| **06** | [Generative AI and Large Language Models](docs/06-generative-ai-and-llms.md) | Discover how AI generates text, images, and other types of content |
+| **07** | [Real-World Applications of AI](docs/07-real-world-applications-of-ai.md) | Explore how AI is applied in education, healthcare, business, and everyday life |
+| **08** | [Benefits, Risks and AI Ethics](docs/08-benefits-risks-and-ai-ethics.md) | Examine the advantages, limitations, risks, and ethical issues of AI |
+| **09** | [The Future of AI](docs/09-the-future-of-ai.md) | Explore emerging AI trends and possible future developments |
 
 ---
-
-## 
-
----
-
-### 📝 Comprehensive Practice Exam
+## 📝 Comprehensive Practice Exam
 
 #### Section A: Multiple Choice Questions 🔘
 1. Which event marked the formal naming and academic establishment of "Artificial Intelligence"?
-   - A) Alan Turing's 1950 publication
-   - B) The Dartmouth Summer Research Project in 1956
-   - C) The victory of AlexNet in 2012
-   - D) The launch of modern public LLMs in 2022
+  - (A) Alan Turing's 1950 publication
+  - (B) The Dartmouth Summer Research Project in 1956
+  - (C) The victory of AlexNet in 2012
+  - (D) The launch of modern public LLMs in 2022
 
 2. What is the defining characteristic of Narrow AI?
-   - A) It possesses self-awareness and emotional intelligence.
-   - B) It is specialized to perform a specific task or bounded domain.
-   - C) It adapts across unencountered intellectual tasks without retraining.
-   - D) It exceeds human intelligence across all academic fields.
+  - (A) It possesses self-awareness and emotional intelligence.
+  - (B) It is specialized to perform a specific task or bounded domain.
+  - (C) It adapts across unencountered intellectual tasks without retraining.
+  - (D) It exceeds human intelligence across all academic fields.
 
 3. In Supervised Learning, what is a "label"?
-   - A) An input property fed into a model.
-   - B) The target output variable or ground truth answer.
-   - C) The algorithm used to adjust network weights.
-   - D) The parameter controlling activation functions.
+  - (A) An input property fed into a model.
+  - (B) The target output variable or ground truth answer.
+  - (C) The algorithm used to adjust network weights.
+  - (D) The parameter controlling activation functions.
 
 4. What occurs when a Machine Learning model suffers from **overfitting**?
-   - A) It performs poorly on both training and testing datasets.
-   - B) It memorizes training data noise, failing to generalize to unseen test data.
-   - C) It outputs uniform probabilities across all prediction classes.
-   - D) It runs out of computational GPU memory during training.
+  - (A) It performs poorly on both training and testing datasets.
+  - (B) It memorizes training data noise, failing to generalize to unseen test data.
+  - (C) It outputs uniform probabilities across all prediction classes.
+  - (D) It runs out of computational GPU memory during training.
 
 5. What mechanism drives text generation in an autoregressive Large Language Model?
-   - A) Real-time querying of internet search databases.
-   - B) Explicit execution of hand-coded IF-THEN logical decision trees.
-   - C) Iterative prediction of the single most likely next token based on context.
-   - D) Biological neuron emulation matching physical brain chemistry.
+  - (A) Real-time querying of internet search databases.
+  - (B) Explicit execution of hand-coded IF-THEN logical decision trees.
+  - (C) Iterative prediction of the single most likely next token based on context.
+  - (D) Biological neuron emulation matching physical brain chemistry.
 
 ---
-
-### 🔑 Answer Key & Explanations
+## 🔑 Answer Key & Explanations
 
 1. **Correct Answer: B**
    * *Explanation:* While Turing proposed the Imitation Game in 1950 (A), the term "Artificial Intelligence" was formally coined and established as an academic research field at the Dartmouth Workshop in 1956 organized by John McCarthy and colleagues.
+     
 2. **Correct Answer: B**
    * *Explanation:* Narrow AI is engineered specifically to excel in a bounded, defined domain (e.g., chess, spam filtering, image classification) and lacks broad, general domain adaptability.
+     
 3. **Correct Answer: B**
    * *Explanation:* Features are input properties (A), whereas labels represent the ground-truth target outputs assigned to training examples that the model attempts to predict.
+     
 4. **Correct Answer: B**
    * *Explanation:* Overfitting occurs when a model learns specific noise and quirks of the training data too closely, achieving high training scores but failing to generalize on new, unseen testing data.
+     
 5. **Correct Answer: C**
    * *Explanation:* LLMs operate autoregressively by estimating statistical probability distributions over a vocabulary matrix to generate the most probable next token sequentially.
 
