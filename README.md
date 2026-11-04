@@ -74,7 +74,7 @@ The module combines different learning methods to make AI concepts easier to und
 | Resource | Description | Link |
 |---|---|---|
 | Study Guide | Detailed learning materials for beginners | [Explore](./Study-Guide.md/) |
-| Test Bank | Practice questions and answer explanations | [Explore](./Test-Bank/) |
+| Test Bank | Practice questions and answer explanations | [Explore](./Test-Bank.md/) |
 | PPT Slides | Presentation materials | [Explore](./PPT-Slides/) |
 | Video Tutorials | Video lessons and demonstrations | [Explore](./Video-Tutorials/) |
 | Supplements | Additional learning activities | [Explore](./Supplements/) |
