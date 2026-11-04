@@ -47,7 +47,7 @@ Create an “AI, automation, or uncertain?” card sort. Give learners examples 
 
 Learners classify each and explain what evidence would help them decide.
 
-### Check Your Understanding
+### Check your Understanding
   1. What does Artificial Intelligence broadly refer to?
   2. Give two examples of AI-enabled services.
   3. How is a fixed-rule timer different from a data-trained recommendation system?
