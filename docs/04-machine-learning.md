@@ -1,7 +1,7 @@
 <h2 align="center">🗂️ Machine Learning</h2>
 <p align="center"><em>Purpose: Explain how a model uses examples and data to learn patterns that support classification, prediction, or other tasks.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 - Define Machine Learning and its relationship to AI.
 - Identify data, features, labels, models, training, testing, and inference.
 - Describe a simplified ML workflow.
@@ -47,13 +47,13 @@ A model should work on new examples, not merely memorize training data. Overfitt
 #### 4.8 Model evaluation
 Accuracy is the proportion of predictions that are correct, but it can mislead when one category is much more common than another. Precision asks, among items predicted positive, how many were truly positive. Recall asks, among all truly positive items, how many the model found. The appropriate metric depends on the consequences of different errors.
 
-### Worked example
+### Worked Example
 Imagine training a spam classifier. The dataset contains example emails labelled “spam” or “not spam.” The model may learn that combinations of words, links, sender patterns, and message features are associated with spam. When a new email arrives, the trained model estimates which category is more likely. It can still make mistakes: a legitimate message may contain suspicious wording, or a new spam message may use unfamiliar patterns.
 
 ### Try it: learning activity
 Run a no-code “human classifier” activity. Give learners 12 sample messages labelled spam or not spam and ask them to identify patterns. Then give 4 new messages, including unusual examples. Discuss which patterns helped, where the group disagreed, and why a real model needs separate evaluation data and ongoing monitoring.
 
-### Check your understanding
+### Check your Understanding
   1. What is the difference between a dataset and a model?
   2. What is a feature? Give one possible feature for spam detection.
   3. How does supervised learning differ from unsupervised learning?
@@ -61,13 +61,13 @@ Run a no-code “human classifier” activity. Give learners 12 sample messages 
   5. Why test a model on examples not used for training?
   6. What is overfitting?
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
   Machine Learning means a computer learns exactly as a human does.
   A model that scores highly on training data must be reliable in the real world.
   More data always guarantees a better model, even when data is biased or poor quality.
   Accuracy is always the best metric for every problem.
 
-### Key takeaways
+### Key Takeaways
 -	Machine Learning is one important approach within AI.
 -	Models learn patterns from data according to a defined training process.
 -	Training and testing serve different purposes.
