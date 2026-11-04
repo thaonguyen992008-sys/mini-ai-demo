@@ -1,6 +1,8 @@
 <h2 align="center">⏳ History and Development of AI</h2>
 <p align="center"><em>Purpose: Show how AI developed through successive research approaches, periods of optimism, setbacks, and technical advances.</em></p>
 
+![0901aa9e623d4339d468afeb6dcd67ab.jpg](../images/0901aa9e623d4339d468afeb6dcd67ab.jpg) 
+
 ### Learning Outcomes
 -	Identify selected milestones in AI history.
 -	Explain the significance of the 1950 Turing paper and the 1956 Dartmouth workshop.
