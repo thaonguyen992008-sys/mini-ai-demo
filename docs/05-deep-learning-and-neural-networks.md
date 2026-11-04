@@ -1,7 +1,7 @@
-## 📑 Deep Learning and Neural Networks
-*Purpose: Explain Deep Learning as a specialized form of ML and introduce neural networks through a simple visual model.*
+<h2 align="center">📑 Deep Learning and Neural Networks</h2>
+<p align="center"><em>Purpose: Explain Deep Learning as a specialized form of ML and introduce neural networks through a simple visual model.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 -	Place Deep Learning correctly within the AI–ML–DL relationship.
 -	Identify input, hidden, and output layers.
 -	Explain at a high level how a network produces and improves predictions.
@@ -39,13 +39,13 @@ Different layers can learn different levels of representation. In an image task,
 #### 5.7 Strengths and limitations
 Deep Learning can learn complex patterns and reduce the need for manually designed features in some tasks. However, it may require substantial data and computing resources, can be difficult to interpret, and may reproduce biases or fail when inputs differ from training conditions. High benchmark performance does not guarantee safe performance in every real-world setting.
 
-### Worked example
+### Worked Example
 Consider an image classifier that predicts whether a photograph contains a cat or a dog. The input is a numerical representation of the image. The network processes it through hidden layers and produces output scores for possible classes. During training, predictions are compared with labelled examples and weights are adjusted. At deployment, a new image is passed through the trained network to obtain a prediction. The output is a model estimate, not an infallible fact.
 
 ### Try it: learning activity
 Show a simple network diagram with an input layer, two hidden layers, and an output layer. Learners label the parts and trace the flow for a cat-versus-dog image. Then ask what might happen if training images mostly show dogs outdoors and cats indoors. Use this to introduce dataset bias and limits of generalization.
 
-### Check your understanding
+### Check your Understanding
   1. What is the relationship between Machine Learning and Deep Learning?
   2. What does the input layer do?
   3. What is the role of hidden layers?
@@ -53,13 +53,13 @@ Show a simple network diagram with an input layer, two hidden layers, and an out
   5. What happens during training when a prediction differs from the target?
   6. Name one strength and one limitation of Deep Learning.
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
 -	Deep Learning is separate from Machine Learning.
 -	An artificial neural network is an exact model of the human brain.
 -	More layers automatically make every model better.
 -	A neural network's prediction is always correct because it uses many calculations.
 
-### Key takeaways
+### Key Takeaways
 -	Deep Learning is a specialized part of Machine Learning.
 -	Neural networks process information through connected computational units and layers.
 -	Training adjusts model parameters to improve performance against a learning objective.
