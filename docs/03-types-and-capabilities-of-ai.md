@@ -1,7 +1,7 @@
-## 🦾 Types and Capabilities of AI
-*Purpose: Introduce capability-based labels and distinguish today's task-focused systems from debated or hypothetical forms of broader intelligence.*
+<h2 align="center">🦾 Types and Capabilities of AI</h2>
+<p align="center"><em>Purpose: Introduce capability-based labels and distinguish today's task-focused systems from debated or hypothetical forms of broader intelligence.</em></p>
 
-### Learning outcomes
+### Learning Outcomes
 -	Describe Narrow AI.
 -	Distinguish Narrow AI, AGI, and ASI as capability-based concepts.
 -	Explain why AGI claims require careful evaluation.
@@ -29,26 +29,26 @@ A system can produce fluent language, solve difficult tasks, or perform well on 
 -	Check transfer: can it apply skills to new tasks and unfamiliar contexts?
 -	Check autonomy and oversight: what decisions can it make, and where do humans remain involved?
 
-### Worked example
+### Worked Example
 A chess engine can defeat world-class human players at chess, but this does not mean it can independently write a school report, plan a holiday, diagnose an illness, and learn every new task. Its impressive chess ability is still limited to a defined domain. High performance in one task is not evidence of general intelligence.
 
 ### Try it: learning activity
 Present case cards: a chess engine, a face-recognition system, a general-purpose chatbot, and a hypothetical system that can learn and perform a wide range of unfamiliar tasks. Learners classify what is known, what is claimed, and what remains hypothetical. Require justification based on demonstrated abilities rather than product names or headlines.
 
-### Check your understanding
+### Check your Understanding
   1. What is Narrow AI?
   2. What is the main difference between Narrow AI and the proposed idea of AGI?
-	3. How is ASI different from AGI?
-	4. Why does fluent conversation not prove human-like understanding?
-	5. What evidence would you want before accepting a claim that a system has general capabilities?
+  3. How is ASI different from AGI?
+  4. Why does fluent conversation not prove human-like understanding?
+  5. What evidence would you want before accepting a claim that a system has general capabilities?
 
-### Common misconceptions to avoid
+### Common Misconceptions to Avoid
 -	AGI and ASI are established categories of products already available to everyone.
 -	A system superhuman at one game must be generally intelligent.
 -	AGI has one universally accepted definition and one simple test.
 -	Capability labels tell us exactly which algorithm or architecture a system uses.
 
-### Key takeaways
+### Key Takeaways
 - Capability labels describe the breadth of tasks a system can perform.
 - Most deployed AI systems are task-specific or bounded in scope.
 - AGI remains debated and ASI is hypothetical.
