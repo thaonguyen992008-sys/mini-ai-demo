@@ -145,7 +145,7 @@ This topic introduces Generative AI and Large Language Models (LLMs), which can 
 Learners can explain the basic concepts of Generative AI and LLMs, identify their applications, and recognize their limitations.
 
 ---
-### Topic 7: Real-World Applications of AI
+### 🧩 Topic 7: Real-World Applications of AI
 
 #### Overview:
 This topic explores how Artificial Intelligence is used across different industries and everyday activities. Learners will discover how AI helps people solve problems, improve efficiency, automate tasks, and support decision-making.
