@@ -1,4 +1,4 @@
-<h1 align="center"> AI OVERVIEW - Study Guide</h1>
+<h1 align="center">AI OVERVIEW - Study Guide</h1>
 <p align="center"><em>Welcome to the AI Overview Study Guide!</em></p>
 
 <p align="center"><b>This guide introduces beginners to Artificial Intelligence
@@ -15,7 +15,7 @@ This module is designed for:
 - Current Knowledge Level: Have heard of or experienced familiar AI tools (such as ChatGPT, Gemini), but do not yet fully understand how AI works or its underlying nature.
 - Learning Goals: Help learners master core knowledge, enabling them to effectively apply AI to their studies, work, and daily life.
 
-#### 🚀 Learning Objectives:
+#### Learning Objectives:
 By completing this study guide, learners will be able to:
 - ***Define*** Artificial Intelligence (AI) and explain its core subfields.
 - ***Distinguish*** between AI, Machine Learning (ML), and Deep Learning (DL).
@@ -178,7 +178,7 @@ This topic examines the positive impacts, potential risks, and ethical challenge
 Learners can identify the benefits and risks of AI, recognize common ethical issues, and explain the importance of responsible AI use.
 
 ---
-### Topic 9: The Future of AI
+### 🚀 Topic 9: The Future of AI
 
 #### Overview:
 This topic explores possible future developments of Artificial Intelligence and their potential impacts on society. Learners will examine emerging AI trends, opportunities, challenges, and the changing relationship between humans and intelligent technologies.
@@ -200,8 +200,8 @@ Learners can identify emerging AI trends and discuss possible opportunities and 
 
 ---
 ## 🗺️ Learning Materials
-| 📑 No. | 📌 Topic Title | 🔑 Description |
-| :---: | --- | :---: |
+| 📑 No. | 📌 Topic Title | Description |
+| :---: | --- | --- |
 | **01** | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | **02** | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
 | **03** | [Types and Capabilities of AI](docs/03-types-and-capabilities-of-ai.md) | Explore different types of AI and what they can do |
@@ -250,19 +250,19 @@ Learners can identify emerging AI trends and discuss possible opportunities and 
 ## 🔑 Answer Key & Explanations
 
 1. **Correct Answer: B**
-   * *Explanation:* While Turing proposed the Imitation Game in 1950 (A), the term "Artificial Intelligence" was formally coined and established as an academic research field at the Dartmouth Workshop in 1956 organized by John McCarthy and colleagues.
+    *Explanation:* While Turing proposed the Imitation Game in 1950 (A), the term "Artificial Intelligence" was formally coined and established as an academic research field at the Dartmouth Workshop in 1956 organized by John McCarthy and colleagues.
      
 2. **Correct Answer: B**
-   * *Explanation:* Narrow AI is engineered specifically to excel in a bounded, defined domain (e.g., chess, spam filtering, image classification) and lacks broad, general domain adaptability.
+    *Explanation:* Narrow AI is engineered specifically to excel in a bounded, defined domain (e.g., chess, spam filtering, image classification) and lacks broad, general domain adaptability.
      
 3. **Correct Answer: B**
-   * *Explanation:* Features are input properties (A), whereas labels represent the ground-truth target outputs assigned to training examples that the model attempts to predict.
+    *Explanation:* Features are input properties (A), whereas labels represent the ground-truth target outputs assigned to training examples that the model attempts to predict.
      
 4. **Correct Answer: B**
-   * *Explanation:* Overfitting occurs when a model learns specific noise and quirks of the training data too closely, achieving high training scores but failing to generalize on new, unseen testing data.
+    *Explanation:* Overfitting occurs when a model learns specific noise and quirks of the training data too closely, achieving high training scores but failing to generalize on new, unseen testing data.
      
 5. **Correct Answer: C**
-   * *Explanation:* LLMs operate autoregressively by estimating statistical probability distributions over a vocabulary matrix to generate the most probable next token sequentially.
+    *Explanation:* LLMs operate autoregressively by estimating statistical probability distributions over a vocabulary matrix to generate the most probable next token sequentially.
 
 ---
 
