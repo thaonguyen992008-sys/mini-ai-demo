@@ -1,6 +1,8 @@
 <h2 align="center">🚀 The Future of AI</h2>
 <p align="center"><em>Purpose: Understand future AI developments, their potential impacts, and the challenges they may bring.</em></p>
 
+![anhp9.jpg](../images/anhp9.jpg)
+
 ### Learning Outcomes
 - Identify current directions that may influence AI development.
 -	Distinguish observed trends from forecasts and speculation.
