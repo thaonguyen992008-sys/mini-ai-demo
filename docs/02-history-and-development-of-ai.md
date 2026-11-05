@@ -15,9 +15,9 @@ Long before modern computers, people imagined machines that could calculate, rea
 #### 2.2 Alan Turing and the question of machine intelligence
 In 1950, mathematician Alan Turing published “Computing Machinery and Intelligence.” Rather than relying only on an abstract debate about whether machines can think, he proposed an imitation-game approach: evaluate whether a machine's conversational responses could be mistaken for a human's under specified conditions. 
 
-![IMG_1659.jpeg](../images/IMG_1659.jpeg)
-
 The Turing Test became influential in discussions about machine intelligence. Passing a conversational test would not prove consciousness or human-like understanding.
+
+![IMG_1659.jpeg](../images/IMG_1659.jpeg)
 
 #### 2.3 The Dartmouth workshop and the naming of AI
 The 1956 Dartmouth Summer Research Project is widely regarded as a foundational event in AI as a formal research field. The term “artificial intelligence” was used in the proposal associated with John McCarthy and colleagues. Researchers explored whether aspects of learning and intelligence could be described precisely enough for machines to simulate them.
