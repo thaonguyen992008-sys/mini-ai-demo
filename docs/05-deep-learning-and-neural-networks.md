@@ -1,6 +1,8 @@
 <h2 align="center">📑 Deep Learning and Neural Networks</h2>
 <p align="center"><em>Purpose: Explain Deep Learning as a specialized form of ML and introduce neural networks through a simple visual model.</em></p>
 
+![dungchop5.jpg](../images/dungchop5.jpg)
+
 ### Learning Outcomes
 -	Place Deep Learning correctly within the AI–ML–DL relationship.
 -	Identify input, hidden, and output layers.
