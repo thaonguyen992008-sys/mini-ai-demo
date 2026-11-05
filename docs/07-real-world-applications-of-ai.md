@@ -12,6 +12,7 @@ For each application, ask: What problem is being addressed? What data is used? W
 
 #### 7.2 Education
 AI tools can support practice-question generation, language assistance, feedback, accessibility, and personalized learning recommendations. They may help teachers prepare materials or identify topics where learners need support. Risks include inaccurate explanations, overdependence, privacy concerns, unequal access, and academic-integrity problems. Teachers and learners should check outputs and follow school policies.
+![Image_20261104205833_959_57.jpg](../images/Image_20261104205833_959_57.jpg)
 
 #### 7.3 Healthcare
 AI can assist with medical-image analysis, organizing information, research, and some administrative workflows. Its role depends on the specific tool and evidence for its intended use. Medical AI requires careful validation, privacy protection, monitoring, and qualified professional oversight. An AI result should not be treated as a diagnosis or treatment decision without appropriate clinical review.
