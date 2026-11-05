@@ -1,6 +1,8 @@
 <h2 align="center">🦾 Types and Capabilities of AI</h2>
 <p align="center"><em>Purpose: Explain AI capability levels, from task-specific systems to broader intelligence.</em></p>
 
+![anhchop3.jpg](../images//anhchop3.jpg)
+
 ### Learning Outcomes
 -	Describe Narrow AI.
 -	Distinguish Narrow AI, AGI, and ASI as capability-based concepts.
@@ -18,6 +20,8 @@ AGI is a proposed concept for an AI system with broad, flexible abilities across
 
 #### 3.4 Artificial Superintelligence (ASI)
 ASI is a hypothetical concept describing an AI whose intellectual abilities would greatly exceed those of humans across many important domains. It is primarily discussed in relation to possible future scenarios, governance, safety, and long-term societal consequences. It should not be presented as an existing system.
+
+![processwithai.jpg](../images/processwithai.jpg)
 
 #### 3.5 Capability is not the same as consciousness
 A system can produce fluent language, solve difficult tasks, or perform well on a benchmark without this alone demonstrating consciousness, feelings, intentions, or human-like understanding. These are separate philosophical and scientific questions. Describe observable capabilities and avoid unsupported claims about inner experience.
