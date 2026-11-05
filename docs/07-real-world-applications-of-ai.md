@@ -20,6 +20,7 @@ AI can assist with medical-image analysis, organizing information, research, and
 
 #### 7.4 Transportation
 AI-enabled systems can support route recommendations, traffic forecasting, driver assistance, fleet planning, and research into autonomous vehicles. Applications depend on sensor data, maps, traffic conditions, and system design. Errors can have physical consequences, so reliability, testing, safety engineering, and human responsibility are essential.
+![Image_20261104205830_958_57.jpg](../images/Image_20261104205830_958_57.jpg)
 
 #### 7.5 Business and finance
 Organizations may use AI for demand forecasting, customer-service support, fraud or anomaly detection, document processing, recommendations, and data analysis. Financial and business decisions can affect people's access to services or money. Models should be tested for errors and unfair impacts, and important decisions may require human review and appeal mechanisms.
