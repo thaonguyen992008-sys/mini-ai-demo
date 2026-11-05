@@ -33,6 +33,7 @@ AI may help monitor crop health, identify pests, estimate yields, optimize irrig
 
 #### 7.7 Entertainment and everyday services
 Recommendation systems can rank music, films, videos, products, or news based on user behaviour and item characteristics. They can make discovery easier, but may narrow what users see, reinforce preferences, or prioritize engagement over quality. Recommendations are selected outputs, not neutral windows onto everything available.
+![Image_20261104205828_957_57.jpg](../images/Image_20261104205828_957_57.jpg)
 
 #### 7.8 AI is part of a sociotechnical system
 An AI application includes more than a model. It also includes people, data collection, user interfaces, organizational rules, infrastructure, monitoring, and decision processes. A technically accurate model can still cause harm if used for the wrong purpose or if people misunderstand its limitations.
