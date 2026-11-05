@@ -40,7 +40,7 @@ In Machine Learning, developers provide data and a learning procedure so a model
 - Build, test, and evaluate the system or model.
 - Deploy it in a real context to produce outputs or recommendations.
 - Monitor performance, handle failures, and update the system when needed.
-![images/IMG_1676.jpeg](../images/IMG_1676.jpeg)
+![IMG_1676.png](../images/IMG_1676.png)
   
 #### 1.6 Why context matters
 An AI system should be evaluated by its purpose, input data, operating environment, users, and possible consequences. A recommendation used to suggest a film has different risks from a model that helps prioritize medical cases or screen job applicants.
