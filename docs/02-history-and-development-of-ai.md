@@ -3,6 +3,8 @@
 
 ![0901aa9e623d4339d468afeb6dcd67ab.jpg](../images/0901aa9e623d4339d468afeb6dcd67ab.jpg) 
 
+![dungchop2.jpg](../images/dungchop2.jpg)
+
 ### Learning Outcomes
 -	Identify selected milestones in AI history.
 -	Explain the significance of the 1950 Turing paper and the 1956 Dartmouth workshop.
