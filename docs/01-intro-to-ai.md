@@ -21,6 +21,7 @@ There is no single definition used in every context. For this module, AI means t
   
 #### 1.3 AI, automation, and robotics
 Automation means that a task is carried out with limited manual effort. It can be based on fixed rules and does not automatically require AI. A thermostat that switches heating on at a set temperature is rule-based automation. 
+![IMG_1657.jpeg]
 
 AI may be used when a system learns patterns from data or makes predictions in less predictable situations. Robotics concerns machines that sense and act in the physical world. A robot may use AI, but many robots perform pre-programmed actions; AI can also exist entirely as software.
 
