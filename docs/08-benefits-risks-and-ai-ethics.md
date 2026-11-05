@@ -1,6 +1,7 @@
 <h2 align="center">⚖️ Benefits, Risks, and AI Ethics</h2>
 <p align="center"><em>Purpose: Help learners evaluate AI beyond its technical capabilities and identify principles for responsible design, deployment, and use.</em></p>
 
+![dungchop8.jpg](../images/dungchop8.jpg)
 ### Learning Outcomes
 -	Describe potential benefits and limitations of AI.
 -	Recognize privacy, bias, misinformation, safety, security, and accountability risks.
