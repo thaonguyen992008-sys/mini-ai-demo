@@ -14,6 +14,7 @@ Long before modern computers, people imagined machines that could calculate, rea
 
 #### 2.2 Alan Turing and the question of machine intelligence
 In 1950, mathematician Alan Turing published “Computing Machinery and Intelligence.” Rather than relying only on an abstract debate about whether machines can think, he proposed an imitation-game approach: evaluate whether a machine's conversational responses could be mistaken for a human's under specified conditions. 
+![IMG_1659.jpeg](../images/IMG_1659.jpeg)
 
 The Turing Test became influential in discussions about machine intelligence. Passing a conversational test would not prove consciousness or human-like understanding.
 
