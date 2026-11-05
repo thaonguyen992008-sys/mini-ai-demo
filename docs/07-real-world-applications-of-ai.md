@@ -36,7 +36,7 @@ Recommendation systems can rank music, films, videos, products, or news based on
 
 #### 7.8 AI is part of a sociotechnical system
 An AI application includes more than a model. It also includes people, data collection, user interfaces, organizational rules, infrastructure, monitoring, and decision processes. A technically accurate model can still cause harm if used for the wrong purpose or if people misunderstand its limitations.
-![IMG_1664.jpeg](../images/IMG_1664.jpeg)
+![IMG_1664.png](../images/IMG_1664.png)
 
 ### Worked Example
 A route-planning service estimates travel time and suggests a route. It may use road-network data, current or historical traffic information, location inputs, and prediction algorithms. The output is a recommendation, not a guarantee. Road closures, accidents, weather, or inaccurate location data may change the best route. The user remains responsible for following road rules and driving safely.
