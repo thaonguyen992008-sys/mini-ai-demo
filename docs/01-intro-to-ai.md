@@ -9,6 +9,7 @@
   
 #### 1.1 What is Artificial Intelligence?
 Artificial Intelligence (AI) is a broad field concerned with creating computer-based systems that perform tasks commonly associated with human abilities, such as recognizing patterns, processing or generating language, making predictions, planning, and supporting decisions. 
+![images/IMG_1674.jpeg](../images/IMG_1674.jpeg)
 
 There is no single definition used in every context. For this module, AI means the design and use of computational systems that perform tasks involving capabilities such as perception, learning, reasoning, language processing, or decision support.
 
@@ -31,6 +32,7 @@ AI may be used when a system learns patterns from data or makes predictions in l
 Traditional software often follows explicit instructions written by a programmer: if a condition is met, perform a specified action. 
 
 In Machine Learning, developers provide data and a learning procedure so a model can identify patterns useful for a task. This distinction is useful but not absolute: real systems may combine fixed rules, databases, conventional software, and learned models.
+![IMG_1675.jpeg](../images/IMG_1675.jpeg)
 
 #### 1.5 A simple AI system lifecycle
 - Identify a task or problem.
@@ -38,6 +40,7 @@ In Machine Learning, developers provide data and a learning procedure so a model
 - Build, test, and evaluate the system or model.
 - Deploy it in a real context to produce outputs or recommendations.
 - Monitor performance, handle failures, and update the system when needed.
+![images/IMG_1676.jpeg](../images/IMG_1676.jpeg)
   
 #### 1.6 Why context matters
 An AI system should be evaluated by its purpose, input data, operating environment, users, and possible consequences. A recommendation used to suggest a film has different risks from a model that helps prioritize medical cases or screen job applicants.
