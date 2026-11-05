@@ -22,12 +22,12 @@ AI-enabled systems can support route recommendations, traffic forecasting, drive
 #### 7.5 Business and finance
 Organizations may use AI for demand forecasting, customer-service support, fraud or anomaly detection, document processing, recommendations, and data analysis. Financial and business decisions can affect people's access to services or money. Models should be tested for errors and unfair impacts, and important decisions may require human review and appeal mechanisms.
 ![IMG_1661.jpeg](../images/IMG_1661.jpeg)
-![IMG_1663.jpeg](../images/IMG_1663.jpeg)
+![IMG_1662.jpeg](../images/IMG_1662.jpeg)
 
 #### 7.6 Agriculture and the environment
 AI may help monitor crop health, identify pests, estimate yields, optimize irrigation, analyze satellite imagery, and support environmental monitoring. Benefits depend on data quality, connectivity, local conditions, affordability, and whether recommendations are practical for farmers and communities.
 ![IMG_1660.jpeg](../images/IMG_1660.jpeg)
-![IMG_1662.jpeg](../images/IMG_1662.jpeg)
+![IMG_1663.jpeg](../images/IMG_1663.jpeg)
 
 #### 7.7 Entertainment and everyday services
 Recommendation systems can rank music, films, videos, products, or news based on user behaviour and item characteristics. They can make discovery easier, but may narrow what users see, reinforce preferences, or prioritize engagement over quality. Recommendations are selected outputs, not neutral windows onto everything available.
