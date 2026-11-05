@@ -1,6 +1,8 @@
 <h2 align="center">📖 Introduction to Artificial Intelligence</h2>
 <p align="center"><em>Purpose: Build a clear foundation for what AI is, what tasks it can perform, and how it differs from ordinary automation.</em></p>
 
+![introofai.jpg](../images/introofai.jpg)
+
 ### Learning Outcomes
 - Define AI in their own words.
 - Recognize common AI-enabled applications.
