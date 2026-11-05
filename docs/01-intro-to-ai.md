@@ -9,7 +9,6 @@
   
 #### 1.1 What is Artificial Intelligence?
 Artificial Intelligence (AI) is a broad field concerned with creating computer-based systems that perform tasks commonly associated with human abilities, such as recognizing patterns, processing or generating language, making predictions, planning, and supporting decisions. 
-![images/IMG_1674.jpeg](../images/IMG_1674.jpeg)
 
 There is no single definition used in every context. For this module, AI means the design and use of computational systems that perform tasks involving capabilities such as perception, learning, reasoning, language processing, or decision support.
 
