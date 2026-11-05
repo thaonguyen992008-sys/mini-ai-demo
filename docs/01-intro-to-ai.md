@@ -31,7 +31,6 @@ AI may be used when a system learns patterns from data or makes predictions in l
 Traditional software often follows explicit instructions written by a programmer: if a condition is met, perform a specified action. 
 
 In Machine Learning, developers provide data and a learning procedure so a model can identify patterns useful for a task. This distinction is useful but not absolute: real systems may combine fixed rules, databases, conventional software, and learned models.
-![IMG_1675.jpeg](../images/IMG_1675.jpeg)
 
 #### 1.5 A simple AI system lifecycle
 - Identify a task or problem.
