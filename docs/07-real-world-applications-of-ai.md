@@ -16,7 +16,7 @@ AI tools can support practice-question generation, language assistance, feedback
 
 #### 7.3 Healthcare
 AI can assist with medical-image analysis, organizing information, research, and some administrative workflows. Its role depends on the specific tool and evidence for its intended use. Medical AI requires careful validation, privacy protection, monitoring, and qualified professional oversight. An AI result should not be treated as a diagnosis or treatment decision without appropriate clinical review.
-![IMG_1665.jpeg](../images/IMG_1665.jpeg)
+
 ![IMG_1666.jpeg](../images/IMG_1666.jpeg)
 
 #### 7.4 Transportation
