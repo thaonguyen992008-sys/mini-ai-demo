@@ -15,6 +15,8 @@ AI tools can support practice-question generation, language assistance, feedback
 
 #### 7.3 Healthcare
 AI can assist with medical-image analysis, organizing information, research, and some administrative workflows. Its role depends on the specific tool and evidence for its intended use. Medical AI requires careful validation, privacy protection, monitoring, and qualified professional oversight. An AI result should not be treated as a diagnosis or treatment decision without appropriate clinical review.
+![IMG_1665.jpeg](../images/IMG_1665.jpeg)
+![IMG_1666.jpeg](../images/IMG_1666.jpeg)
 
 #### 7.4 Transportation
 AI-enabled systems can support route recommendations, traffic forecasting, driver assistance, fleet planning, and research into autonomous vehicles. Applications depend on sensor data, maps, traffic conditions, and system design. Errors can have physical consequences, so reliability, testing, safety engineering, and human responsibility are essential.
@@ -34,6 +36,7 @@ Recommendation systems can rank music, films, videos, products, or news based on
 
 #### 7.8 AI is part of a sociotechnical system
 An AI application includes more than a model. It also includes people, data collection, user interfaces, organizational rules, infrastructure, monitoring, and decision processes. A technically accurate model can still cause harm if used for the wrong purpose or if people misunderstand its limitations.
+![IMG_1664.jpeg](../images/IMG_1664.jpeg)
 
 ### Worked Example
 A route-planning service estimates travel time and suggests a route. It may use road-network data, current or historical traffic information, location inputs, and prediction algorithms. The output is a recommendation, not a guarantee. Road closures, accidents, weather, or inaccurate location data may change the best route. The user remains responsible for following road rules and driving safely.
