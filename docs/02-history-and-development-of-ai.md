@@ -20,6 +20,7 @@ The Turing Test became influential in discussions about machine intelligence. Pa
 
 #### 2.3 The Dartmouth workshop and the naming of AI
 The 1956 Dartmouth Summer Research Project is widely regarded as a foundational event in AI as a formal research field. The term “artificial intelligence” was used in the proposal associated with John McCarthy and colleagues. Researchers explored whether aspects of learning and intelligence could be described precisely enough for machines to simulate them.
+![images/Image_20261104205834_960_57.jpg](../images/images/Image_20261104205834_960_57.jpg)
 
 #### 2.4 Early symbolic and rule-based AI
 Early AI research often represented knowledge through symbols, logical statements, and hand-written rules. Such systems could solve structured problems, prove certain theorems, or perform tasks in limited environments. They worked best when the problem and its rules could be described clearly, but struggled with ambiguity, incomplete information, and real-world complexity.
