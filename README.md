@@ -129,7 +129,7 @@ Finally, we acknowledge the researchers, educational institutions, and organizat
 The following sources provide background information and support the learning content presented in the AI Overview project.
 
 ### Topic 1: Introduction to AI
-+ IBM. [Introduction to Artificial Intelligence](https://www.ibm.com/think/topics/artificial-intelligence).
++/ IBM. [Introduction to Artificial Intelligence](https://www.ibm.com/think/topics/artificial-intelligence).
 +/ Google Cloud. [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence).
 
 ### Topic 2: History of AI
