@@ -110,6 +110,70 @@ The module combines different learning methods to make AI concepts easier to und
 
 ## E. References & Acknowledgements
 
+During the development of this project, we used AI-powered tools to support our learning and production process:
+
++/ **ChatGPT (OpenAI):** Assisted with brainstorming, organizing ideas, explaining AI concepts, drafting learning materials, and improving written content.
++/ **Claude (Anthropic):** Assisted with video production, slide development, and creative content generation.
++/ **Canva:** Used to design and organize visual presentation materials.
+
+AI-generated suggestions and content were reviewed, edited, and adapted by team members to ensure clarity, accuracy, and suitability for beginner learners.
+
+Finally, we acknowledge the researchers, educational institutions, and organizations whose publications and online resources provided valuable knowledge and support for this project.
+
+---
+
+*Note: All references should be checked against the actual content used in the project. AI-assisted materials were reviewed and adapted by the team.*
+
+## 1. References
+
+The following sources provide background information and support the learning content presented in the AI Overview project.
+
+### Topic 1: Introduction to AI
++/ IBM. [Introduction to Artificial Intelligence](https://www.ibm.com/think/topics/artificial-intelligence).
++/ Google Cloud. [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence).
+
+### Topic 2: History of AI
++/ Stanford University. [AI100: Artificial Intelligence and Its History](https://ai100.stanford.edu/).
++/ IBM. [The History of Artificial Intelligence](https://www.ibm.com/think/topics/history-of-artificial-intelligence).
+
+### Topic 3: Types and Capabilities of AI
++/ IBM. [Types of Artificial Intelligence](https://www.ibm.com/think/topics/artificial-intelligence-types).
++/ Google Cloud. [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence).
+
+### Topic 4: Machine Learning
++/ Google for Developers. [Machine Learning](https://developers.google.com/machine-learning/intro-to-ml).
++/ IBM. [What is Machine Learning?](https://www.ibm.com/think/topics/machine-learning).
+
+### Topic 5: Deep Learning and Neural Networks
++/ IBM. [What is Deep Learning?](https://www.ibm.com/think/topics/deep-learning).
++/ Google for Developers. [Neural Networks](https://developers.google.com/machine-learning/crash-course/neural-networks).
+
+### Topic 6: Generative AI and Large Language Models
++/ IBM. [What is Generative AI?](https://www.ibm.com/think/topics/generative-ai).
++/ Google Cloud. [What are Large Language Models (LLMs)?](https://cloud.google.com/use-cases/large-language-models).
+
+### Topic 7: Real-World Applications of AI
++/ Stanford Institute for Human-Centered Artificial Intelligence (HAI). [AI Index Report](https://hai.stanford.edu/ai-index).
++/ IBM. [Artificial Intelligence in Business](https://www.ibm.com/think/topics/artificial-intelligence-business).
+
+### Topic 8: Benefits, Risks and AI Ethics
++/ National Institute of Standards and Technology (NIST). [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
++/ UNESCO. [Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics).
+
+### Topic 9: Future of AI
++/ Stanford Institute for Human-Centered Artificial Intelligence (HAI). [AI Index Report](https://hai.stanford.edu/ai-index).
++/ World Economic Forum. [Artificial Intelligence](https://www.weforum.org/agenda/archive/artificial-intelligence/).
+
+---
+
+## 2. Acknowledgements
+
+We would like to express our sincere gratitude to our instructor for providing guidance, instructions, and valuable feedback throughout the development of this AI Overview project.
+
+We also appreciate the contributions and collaboration of all team members in researching, writing, reviewing, and developing the nine learning topics.
+
+### AI Tools and Technical Support
+
 
 
 
