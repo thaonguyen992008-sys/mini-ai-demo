@@ -93,7 +93,7 @@ This topic introduces different types of Artificial Intelligence based on their 
 Learners can distinguish between major AI types and recognize the capabilities and limitations of current AI systems.
 
 ---
-### Topic 4: Machine Learning
+### 🗂️ Topic 4: Machine Learning
 
 #### Overview:
 This topic introduces Machine Learning (ML), a major branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
