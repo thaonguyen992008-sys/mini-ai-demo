@@ -56,7 +56,7 @@ This topic introduces the fundamental concepts of Artificial Intelligence (AI). 
 Learners can define Artificial Intelligence and explain its basic characteristics using simple examples.
 
 ---
-### Topic 2: History and Development of AI
+### ⏳ Topic 2: History and Development of AI
 
 #### Overview:
 This topic explores the historical development of Artificial Intelligence, from its early theoretical foundations to modern AI technologies. Learners will discover important milestones, major breakthroughs, and the factors that have influenced AI development over time.
