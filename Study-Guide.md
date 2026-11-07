@@ -200,7 +200,7 @@ Learners can identify emerging AI trends and discuss possible opportunities and 
 
 ---
 ## 🗺️ Learning Materials
-| 📑 No. | 📌 Topic Title | Description |
+| 📑 No. | 📌 Topic Title | 📝 Description |
 | :---: | --- | --- |
 | **01** | [Introduction to AI](docs/01-intro-to-ai.md) | Understand the basic concepts and definitions of Artificial Intelligence |
 | **02** | [History and Development of AI](docs/02-history-and-development-of-ai.md) | Discover how Artificial Intelligence has evolved over time |
